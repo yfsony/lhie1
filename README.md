@@ -20,5 +20,7 @@ https://gist.github.com/scomper
 「Host」
 https://github.com/gongjianhui/AppleDNS
 
+直接下载：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
+
 
 新浪微博 @lhie1
