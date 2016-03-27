@@ -13,7 +13,7 @@
 * Apple 全系列服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-@scomper 的规则为原型，进行个人修改，使规则更适用于我和大部分人（保持同步更新）
+基于 @scomper 的规则（保持同步更新）所定制，让它更适用于大部分人
 
 https://gist.github.com/scomper
 
