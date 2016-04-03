@@ -16,11 +16,8 @@
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
 基于 @scomper 的规则（保持同步更新）所定制，让它更适用于大部分人
-原项目：https://gist.github.com/scomper
 
-「Host」 - Apple DNS
-教程：http://lhie1.tumblr.com/post/142124016216/apple-dns
-原项目：https://github.com/gongjianhui/AppleDNS
+「Host」 - Apple DNS 教程：http://lhie1.tumblr.com/post/142124016216/apple-dns
 
 直接下载：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
 
