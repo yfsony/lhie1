@@ -22,4 +22,6 @@
 直接下载：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
 
 
+淘宝店铺：https://shop116319160.taobao.com
+
 新浪微博 @lhie1
