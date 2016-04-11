@@ -15,10 +15,6 @@
 * Apple 全系列服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-基于 @scomper 的规则（保持同步更新）所定制，让它更适用于大部分人
-
-「Host」 - Apple DNS 教程：http://lhie1.tumblr.com/post/142124016216/apple-dns
-
 直接下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
 
 
@@ -35,6 +31,8 @@
 * 屏蔽运营商劫持网页弹出的漂浮广告
 * 解决本地 DNS 可能带来的干扰
 * 所有国内网站均直接连接
+
+直接下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Host.conf
 
 
 # lhie1
