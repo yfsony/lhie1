@@ -19,8 +19,25 @@
 
 「Host」 - Apple DNS 教程：http://lhie1.tumblr.com/post/142124016216/apple-dns
 
-直接下载：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
+直接下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
 
+
+# Host
+
+* 不需 SS 服务器即可享受主流网站代理（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
+* 屏蔽常用视频网站广告
+* 屏蔽常用网站广告、其他流媒体网站广告
+* 屏蔽应用程序内广告
+* 屏蔽应用程序开屏广告
+* 屏蔽应用程序隐私追踪
+* 屏蔽公共无线网络嗅探器
+* 屏蔽 WiFi 万能钥匙、腾讯 WiFi 管家
+* 屏蔽运营商劫持网页弹出的漂浮广告
+* 解决本地 DNS 可能带来的干扰
+* 所有国内网站均直接连接
+
+
+# lhie1
 
 淘宝店铺：https://shop116319160.taobao.com
 
