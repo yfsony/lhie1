@@ -15,7 +15,8 @@
 * Apple 全系列服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-直接下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
+iOS 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
+Mac 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/.surge.conf
 
 
 # Host
@@ -32,7 +33,7 @@
 * 解决本地 DNS 可能带来的干扰
 * 所有国内网站均直接连接
 
-直接下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Host.conf
+Auto 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Host.conf
 
 
 # lhie1
