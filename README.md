@@ -35,9 +35,11 @@
 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Host.conf
 
 
-# iOS & Mac（通过 ln -s 为 iCloud Drive 文件夹中的 Surge.conf 创建了一个软链接）
+# iOS & Mac
 
-ln -sfv "/Users/$(whoami)/Library/Mobile Documents/iCloud~run~surge/Documents/Surge.conf" "/Users/$(whoami)/.surge.conf"
+通过 ln -s 为 iCloud Drive 文件夹中的 Surge.conf 创建了一个软链接，实现 iOS & Mac 版 Surge 使用同一个配置。
+
+`ln -sfv "/Users/$(whoami)/Library/Mobile Documents/iCloud~run~surge/Documents/Surge.conf" "/Users/$(whoami)/.surge.conf"`
 
 详细教程：http://dwz.cn/3DxzIC
 
