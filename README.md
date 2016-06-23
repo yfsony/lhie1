@@ -41,7 +41,7 @@
 
 `ln -sfv "/Users/$(whoami)/Library/Mobile Documents/iCloud~run~surge/Documents/Surge.conf" "/Users/$(whoami)/.surge.conf"`
 
-详细教程：http://dwz.cn/3DxzIC
+[详细教程](https://medium.com/@scomper/surge-安装步骤导览-81bbce87d54a#.b8okmwcit)
 
 
 # line
