@@ -46,7 +46,7 @@
 
 # lhie1
 
-* | * |
+阿 | 阿阿 |
 ---------|:---------:
 淘宝店铺  | [榆梦 LHIE1](https://shop116319160.taobao.com)
 新浪微博 | [ @lhie1](https://shop116319160.taobao.com)
