@@ -15,9 +15,7 @@
 * Apple 全系列服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-iOS 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
-
-Mac 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/.surge.conf
+下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
 
 
 # Host
@@ -34,7 +32,14 @@ Mac 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/.surge.c
 * 解决本地 DNS 可能带来的干扰
 * 所有国内网站均直接连接
 
-Auto 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Host.conf
+下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Host.conf
+
+
+# iOS & Mac（通过 ln -s 为 iCloud Drive 文件夹中的 Surge.conf 创建了一个软链接）
+
+ln -sfv "/Users/$(whoami)/Library/Mobile Documents/iCloud~run~surge/Documents/Surge.conf" "/Users/$(whoami)/.surge.conf"
+
+详细教程：http://dwz.cn/3DxzIC
 
 
 # lhie1
