@@ -1,4 +1,4 @@
-# Surge
+# Surge.conf
 
 * 网络代理（智能分流）
 * 屏蔽常用视频网站广告
@@ -18,7 +18,7 @@
 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
 
 
-# Shadowrocket
+# Shadowrocket.conf
 
 * 网络代理（智能分流）
 * 屏蔽常用视频网站广告
@@ -36,7 +36,7 @@
 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
 
 
-# iOS & Mac - Surge
+# Surge - iOS & Mac
 
 通过 ln -s 为 iCloud Drive 文件夹中的 Surge.conf 创建了一个软链接，实现 iOS & Mac 版 Surge 使用同一个配置。
 
