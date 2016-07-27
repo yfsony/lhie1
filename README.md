@@ -18,9 +18,9 @@
 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
 
 
-# Host
+# Shadowrocket
 
-* 不需 SS 服务器即可享受主流网站代理（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
+* 网络代理（智能分流）
 * 屏蔽常用视频网站广告
 * 屏蔽常用网站广告、其他流媒体网站广告
 * 屏蔽应用程序内广告
@@ -31,11 +31,12 @@
 * 屏蔽运营商劫持网页弹出的漂浮广告
 * 解决本地 DNS 可能带来的干扰
 * 所有国内网站均直接连接
+* 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Host.conf
+下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
 
 
-# iOS & Mac
+# iOS & Mac - Surge
 
 通过 ln -s 为 iCloud Drive 文件夹中的 Surge.conf 创建了一个软链接，实现 iOS & Mac 版 Surge 使用同一个配置。
 
