@@ -36,18 +36,9 @@
 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
 
 
-# Surge - iOS & Mac
-
-通过 ln -s 为 iCloud Drive 文件夹中的 Surge.conf 创建了一个软链接，实现 iOS & Mac 版 Surge 使用同一个配置。
-
-`ln -sfv "/Users/$(whoami)/Library/Mobile Documents/iCloud~run~surge/Documents/Surge.conf" "/Users/$(whoami)/.surge.conf"`
-
-Surge 安装步骤导览：[详细教程](http://bit.ly/292EJz3)
-
-
 # line
 
 硬广 | Raw |
 ---------|:---------:
 淘宝店铺  | [榆梦 LHIE1](https://shop116319160.taobao.com)
-新浪微博 | [ @lhie1](https://shop116319160.taobao.com)
+新浪微博 | [ @lhie1](http://www.weibo.com/1748625493)
