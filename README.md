@@ -19,6 +19,8 @@
 
 Pro版 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/SurgePro.conf
 
+Surge 规则 介绍：https://raw.githubusercontent.com/lhie1/Surge/master/ConfigExample
+
 
 # Shadowrocket.conf
 
