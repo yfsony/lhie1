@@ -7,7 +7,6 @@
 * 屏蔽应用程序开屏广告
 * 屏蔽应用程序隐私追踪
 * 屏蔽公共无线网络嗅探器
-* 屏蔽 WiFi 万能钥匙、腾讯 WiFi 管家
 * 屏蔽运营商劫持网页弹出的漂浮广告
 * 解决本地 DNS 可能带来的干扰
 * 所有国内网站均直接连接
@@ -19,7 +18,7 @@
 
 Pro版 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/SurgePro.conf
 
-Surge 规则 介绍：https://raw.githubusercontent.com/lhie1/Surge/master/ConfigExample
+Surge 规则介绍：https://raw.githubusercontent.com/lhie1/Surge/master/ConfigExample
 
 
 # Shadowrocket.conf
@@ -31,7 +30,6 @@ Surge 规则 介绍：https://raw.githubusercontent.com/lhie1/Surge/master/Confi
 * 屏蔽应用程序开屏广告
 * 屏蔽应用程序隐私追踪
 * 屏蔽公共无线网络嗅探器
-* 屏蔽 WiFi 万能钥匙、腾讯 WiFi 管家
 * 屏蔽运营商劫持网页弹出的漂浮广告
 * 解决本地 DNS 可能带来的干扰
 * 所有国内网站均直接连接
