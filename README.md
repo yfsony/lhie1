@@ -3,14 +3,12 @@
 * 网络代理（智能分流）
 * 屏蔽常用视频网站广告
 * 屏蔽常用网站广告、其他流媒体网站广告
-* 屏蔽应用程序内广告
-* 屏蔽应用程序开屏广告
-* 屏蔽应用程序隐私追踪
-* 屏蔽公共无线网络嗅探器
-* 屏蔽运营商劫持网页弹出的漂浮广告
+* 屏蔽运营商劫持网页弹出的漂浮球广告
+* 阻止应用程序内隐私跟踪
+* 阻止公共无线网络嗅探器
 * 解决本地 DNS 可能带来的干扰
 * 所有国内网站均直接连接
-* 可根据内网特殊定制突破限制（公司、学校）
+* 可突破内网限制（公司、学校）
 * Apple 全系列服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
@@ -26,11 +24,9 @@ Surge 规则介绍：https://raw.githubusercontent.com/lhie1/Surge/master/Config
 * 网络代理（智能分流）
 * 屏蔽常用视频网站广告
 * 屏蔽常用网站广告、其他流媒体网站广告
-* 屏蔽应用程序内广告
-* 屏蔽应用程序开屏广告
-* 屏蔽应用程序隐私追踪
-* 屏蔽公共无线网络嗅探器
-* 屏蔽运营商劫持网页弹出的漂浮广告
+* 屏蔽运营商劫持网页弹出的漂浮球广告
+* 阻止应用程序内隐私跟踪
+* 阻止公共无线网络嗅探器
 * 解决本地 DNS 可能带来的干扰
 * 所有国内网站均直接连接
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
