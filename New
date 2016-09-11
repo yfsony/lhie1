@@ -2,4 +2,8 @@
 
 09.12
 
-以后每次更新将会使用中文说明
+以后的每次更新将会添加说明
+
+-DOMAIN-SUFFIX,f.360.cn,REJECT
+
++DOMAIN-SUFFIX,qihucdn.com,DIRECT／cn Proxy
