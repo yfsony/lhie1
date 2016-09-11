@@ -12,11 +12,11 @@
 * Apple 全系列服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-基础版 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
+基础版 下载地址：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
-Pro版 下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/SurgePro.conf
+Pro版 下载地址：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/SurgePro.conf</kbd>
 
-Surge 规则介绍：https://raw.githubusercontent.com/lhie1/Surge/master/ConfigExample
+Surge 规则介绍：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
 
 
 # Shadowrocket.conf
@@ -31,7 +31,7 @@ Surge 规则介绍：https://raw.githubusercontent.com/lhie1/Surge/master/Config
 * 所有国内网站均直接连接
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-下载地址：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
+下载地址：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
 
 
 # line
