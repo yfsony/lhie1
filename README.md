@@ -18,6 +18,8 @@
 
 `Surge 规则/差异介绍：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
 
+更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
+
 
 # Shadowrocket.conf
 
