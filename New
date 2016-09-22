@@ -1,7 +1,80 @@
-# Surge Config New (Chinese)
+# Surge Config New Update
 
-09.12
+09.22
 
--DOMAIN-SUFFIX,f.360.cn,REJECT
+Config-Example
 
-+DOMAIN-SUFFIX,qihucdn.com,DIRECT／cn Proxy
+# SurgePro Config Example (Chinese)
+
+✈️ Proxy & cn Proxy & 🍎 Proxy
+
+Proxy（Group 1）、cn Proxy（Group 2）、🍎 Proxy（Group 3）
+
+一般情况下，✈️ Proxy 选代理服务器，cn Proxy 选 💊Direct 直连，🍎 Proxy 选 💊 Direct。
+
+如果 ✈️ Proxy、cn Proxy 都选代理服务器就是全局代理。
+
+如果连接苹果服务器困难， 🍎 Proxy 选代理服务器，可能会改善一些问题。
+
+🍎 Proxy 选代理服务器后，可以使用 macOS 自带的“地图”应用 查看各地区的 3D Flyover 。
+
+
+Surge/SurgePro.conf
+
+-// test
+-DOMAIN-SUFFIX,cdce.cf,REJECT
+-DOMAIN-SUFFIX,statuscheck,REJECT
+
+-DOMAIN-SUFFIX,x.da.hunantv.com,REJECT
+
+-DOMAIN-SUFFIX,com.cn,cn Proxy
+-DOMAIN-SUFFIX,edu.cn,cn Proxy
+-DOMAIN-SUFFIX,org.cn,cn Proxy
+-DOMAIN-SUFFIX,net.cn,cn Proxy
+-DOMAIN-SUFFIX,gov.cn,cn Proxy
+
+-DOMAIN-SUFFIX,hulkpop.com,cn Proxy
+
+-DOMAIN-SUFFIX,google.cn,cn Proxy
+-DOMAIN-SUFFIX,akamai.net,✈️ Proxy,force-remote-dns
+-DOMAIN-SUFFIX,fbcdn.net, ✈️ Proxy, force-remote-dns
+-DOMAIN-SUFFIX,t66y.com,✈️ Proxy,force-remote-dns
+-DOMAIN-SUFFIX,kenengba.com,✈️ Proxy,force-remote-dns
+
+
++DOMAIN-KEYWORD,content.icloud,cn Proxy
+
++DOMAIN-SUFFIX,alimama.com,REJECT
+
++DOMAIN-SUFFIX,cpro.baidustatic.com,REJECT
++DOMAIN-SUFFIX,dup.baidustatic.com,REJECT
++DOMAIN-SUFFIX,pos.baidu.com,REJECT
+
++// Google
++DOMAIN-SUFFIX,2mdn.net,REJECT
++DOMAIN-SUFFIX,admob.com,REJECT
++DOMAIN-SUFFIX,doubleclick.com,REJECT
++DOMAIN-SUFFIX,doubleclick.net,REJECT
++DOMAIN-SUFFIX,googleadsserving.cn,REJECT
++DOMAIN-SUFFIX,googlecommerce.com,REJECT
++DOMAIN-SUFFIX,googletagmanager.com,REJECT
++DOMAIN-SUFFIX,ads.google.com,REJECT
++DOMAIN-SUFFIX,afd.l.google.com,REJECT
++DOMAIN-SUFFIX,pagead-tpc.l.google.com,REJECT
++DOMAIN-SUFFIX,pagead.google.com,REJECT
++DOMAIN-SUFFIX,pagead.l.google.com,REJECT
++DOMAIN-SUFFIX,partnerad.l.google.com,REJECT
+
++DOMAIN-SUFFIX,afp.pplive.com,REJECT
++DOMAIN-SUFFIX,ckm.iqiyi.com,REJECT
++DOMAIN-SUFFIX,cm.passport.iqiyi.com,REJECT
++DOMAIN-SUFFIX,da.hunantv.com,REJECT
++DOMAIN-SUFFIX,paopao.iqiyi.com,REJECT
++DOMAIN-SUFFIX,pp2.pptv.com,REJECT
++DOMAIN-SUFFIX,stat.pptv.com,REJECT
++DOMAIN-SUFFIX,vqq.admaster.com.cn,REJECT
++DOMAIN-SUFFIX,xs.houyi.baofeng.net,REJECT
+
++// Accelerate direct sites
++DOMAIN-KEYWORD,alipay,cn Proxy
++DOMAIN-KEYWORD,taobao,cn Proxy
