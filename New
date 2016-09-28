@@ -28,8 +28,6 @@ new 09.28
 
 Surge/SurgePro.conf
 
-* 现在可以在线更新了 (Download Configuration from URL)
-
 * 更换了 SSEncrypt.module 的源地址 可能需要重新下载
 
 [General]
