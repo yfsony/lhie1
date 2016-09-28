@@ -18,7 +18,7 @@ Proxy（Group 1）、cn Proxy（Group 2）、🍎 Proxy（Group 3）
 
 
 Surge for iOS 开启共享模式
-Surge 增加了代理共享模式，只需要开启就能让 Wi-Fi 网络中的其他设备通过这台 iPhone 代理访问网络。
+Surge 在下次更新增加了代理共享模式，只需要开启就能让 Wi-Fi 网络中的其他设备通过这台 iPhone 代理访问网络。
 到高级设置中开启 Allow Wi-Fi Access ，或者直接修改配置文件，添加一行参数 allow-wifi-access = true。
 
 其他 Wi-Fi 网络环境下的设备可以输入已经开启共享代理的 Surge 设备的 IP 地址和端口号，（技巧：Surge Log 中能看到开启后本机的 IP 地址和监听端口）将 IP 地址填写到需要共享设备的 Wi-Fi 信息的 HTTP 代理里即可。
@@ -43,9 +43,18 @@ Surge/SurgePro.conf
 // AD Block
 +DOMAIN-SUFFIX,doubleverify.com,REJECT
 
+[Host] 移动用户专享（其他宽带运营商用户访问 http://lhie1.tumblr.com/post/142124016216/apple-dns）
+// CMCC
++aod.itunes.apple.com = hkg.aapldns.xyz
++streamingaudio.itunes.apple.com = hkg.aapldns.xyz
++aodp.itunes.apple.com = hkg.aapldns.xyz
++iosapps.itunes.apple.com = hkg.aapldns.xyz
++osxapps.itunes.apple.com = hkg.aapldns.xyz
++swcdn.apple.com = hkg.aapldns.xyz
++appldnld.apple.com = hkg.aapldns.xyz
++itsliveradio.apple.com = 42.99.128.168
+
 [URL Rewrite]
-+^http://www.google.cn http://www.google.com.hk header
-+^http://mp.weixin.qq.com/mp/report reject header
 +^http://www.cnbeta.com/assets/js/cb.js reject header
 +^http://s.cimg.163.com/i/img1.126.net reject header
 +^http://s.cimg.163.com/i/afp.alicdn.com reject header
