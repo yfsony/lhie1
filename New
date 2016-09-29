@@ -8,13 +8,13 @@ Config-Example
 
 Proxy（Group 1）、cn Proxy（Group 2）、🍎 Proxy（Group 3）
 
-一般情况下，✈️ Proxy 选代理服务器，cn Proxy 选 💊Direct 直连，🍎 Proxy 选 💊 Direct。
-
 如果 ✈️ Proxy、cn Proxy 都选代理服务器就是全局代理。
 
 如果连接苹果服务器困难， 🍎 Proxy 选代理服务器，可能会改善一些问题。
 
 🍎 Proxy 选代理服务器后，可以使用 macOS 自带的“地图”应用 查看各地区的 3D Flyover 。
+
+一般情况下，推荐：✈️ Proxy 选代理服务器，cn Proxy 选 💊Direct 直连，🍎 Proxy 选 💊 Direct。
 
 
 Surge for iOS 开启共享模式
