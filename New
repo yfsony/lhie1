@@ -24,7 +24,7 @@ Surge 在下次更新增加了代理共享模式，只需要开启就能让 Wi-F
 其他 Wi-Fi 网络环境下的设备可以输入已经开启共享代理的 Surge 设备的 IP 地址和端口号，（技巧：Surge Log 中能看到开启后本机的 IP 地址和监听端口）将 IP 地址填写到需要共享设备的 Wi-Fi 信息的 HTTP 代理里即可。
 
 
-new 09.28
+new 09.29
 
 Surge/SurgePro.conf
 
@@ -41,6 +41,9 @@ Surge/SurgePro.conf
 // 163
 +DOMAIN-SUFFIX,afp.alicdn.com,REJECT
 +DOMAIN-SUFFIX,img1.126.net,REJECT
+
+// QQ
++DOMAIN-SUFFIX,buluo.qq.com,REJECT
 
 // AD Block
 +DOMAIN-SUFFIX,doubleverify.com,REJECT
