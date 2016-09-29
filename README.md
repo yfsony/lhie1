@@ -14,11 +14,13 @@
 
 `基础版 下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
-`Pro版 下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/SurgePro.conf</kbd>
+`Pro 版 下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge-Pro.conf</kbd>
 
 `Surge 规则/差异介绍：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
 
 `更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
+
+`Apple DNS Series 2：`<kbd>http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2</kbd>
 
 
 # Shadowrocket.conf
