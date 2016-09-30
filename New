@@ -48,9 +48,9 @@ Surge/SurgePro.conf
 // AD Block
 +DOMAIN-SUFFIX,doubleverify.com,REJECT
 
-[Host] 移动用户专享
-（其他宽带运营商用户访问 http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2）
-// CMCC
+[Host]
+// Apple 加速
+// Auto （电信、联通、移动通用）
 +aod.itunes.apple.com = hkg.aapldns.xyz
 +streamingaudio.itunes.apple.com = hkg.aapldns.xyz
 +aodp.itunes.apple.com = hkg.aapldns.xyz
@@ -59,6 +59,7 @@ Surge/SurgePro.conf
 +swcdn.apple.com = hkg.aapldns.xyz
 +appldnld.apple.com = hkg.aapldns.xyz
 +itsliveradio.apple.com = 42.99.128.168
+// 电信、联通还可以更快：http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2
 
 [URL Rewrite]
 +^http://www.cnbeta.com/assets/js/cb.js reject header
