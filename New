@@ -1,30 +1,35 @@
-# Surge Config New Update
-
-Config-Example
-
-# SurgePro Config Example (Chinese)
-
-✈️ Proxy & cn Proxy & 🍎 Proxy
-
-Proxy（Group 1）、cn Proxy（Group 2）、🍎 Proxy（Group 3）
+# ✈️ Proxy & cn Proxy & 🍎 Proxy
 
 如果 ✈️ Proxy、cn Proxy 都选代理服务器就是全局代理。
-
 如果连接苹果服务器困难， 🍎 Proxy 选代理服务器，可能会改善一些问题。
-
 🍎 Proxy 选代理服务器后，可以使用 macOS 自带的“地图”应用 查看各地区的 3D Flyover 。
 
 一般情况下，推荐：✈️ Proxy 选代理服务器，cn Proxy 选 💊Direct 直连，🍎 Proxy 选 💊 Direct。
 
 
-Surge for iOS 开启共享模式
+
+# Surge for iOS 开启共享模式 http://t.cn/RcgOHo6
+
 Surge 在下次更新增加了代理共享模式，只需要开启就能让 Wi-Fi 网络中的其他设备通过这台 iPhone 代理访问网络。
 到高级设置中开启 Allow Wi-Fi Access ，或者直接修改配置文件，添加一行参数 allow-wifi-access = true。
 
 其他 Wi-Fi 网络环境下的设备可以输入已经开启共享代理的 Surge 设备的 IP 地址和端口号，（技巧：Surge Log 中能看到开启后本机的 IP 地址和监听端口）将 IP 地址填写到需要共享设备的 Wi-Fi 信息的 HTTP 代理里即可。
 
 
-new 09.29
+
+# Apple DNS （Apple 服务加速） http://t.cn/RcgOudi
+
+Apple DNS 通过收集 Apple 在全中国几乎所有省级行政区的 CDN IP 列表，解决 App Store / Mac App Store / iTunes Store / Apple Music / iBooks / TestFlight 在中国部分地区速度缓慢的问题。
+
+ChinaNet：电信宽带专用
+ChinaUnicom：联通宽带专用
+auto(原 CMCC)：电信、联通、移动 三网通用
+
+电信、联通宽带用户可以自行按照教程生成最适合自身网络环境的 CDN IP 列表，移动宽带用户或嫌麻烦的用户使用 auto 列表即可。
+
+
+
+# Surge Config New Update 09.29
 
 Surge/SurgePro.conf
 
@@ -50,7 +55,7 @@ Surge/SurgePro.conf
 
 [Host]
 // Apple 加速
-// Auto （电信、联通、移动通用）
+// Auto
 +aod.itunes.apple.com = hkg.aapldns.xyz
 +streamingaudio.itunes.apple.com = hkg.aapldns.xyz
 +aodp.itunes.apple.com = hkg.aapldns.xyz
@@ -59,7 +64,7 @@ Surge/SurgePro.conf
 +swcdn.apple.com = hkg.aapldns.xyz
 +appldnld.apple.com = hkg.aapldns.xyz
 +itsliveradio.apple.com = 42.99.128.168
-// 电信、联通还可以更快：http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2
+// aapldns.xyz 由 AppleDNS Team 托管，以 CNAME 的方式解析 Apple 服务器 IP
 
 [URL Rewrite]
 +^http://www.cnbeta.com/assets/js/cb.js reject header
