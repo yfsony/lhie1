@@ -29,7 +29,7 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 
 
-# Surge Config New Update 09.29
+# Surge Config New Update 10.01
 
 Surge/SurgePro.conf
 
@@ -46,6 +46,8 @@ Surge/SurgePro.conf
 // 163
 +DOMAIN-SUFFIX,afp.alicdn.com,REJECT
 +DOMAIN-SUFFIX,img1.126.net,REJECT
+// 修复网易新闻图片无法加载
+-DOMAIN-SUFFIX,ws.126.net,REJECT
 
 // QQ
 +DOMAIN-SUFFIX,buluo.qq.com,REJECT
