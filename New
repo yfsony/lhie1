@@ -37,11 +37,9 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 
 
-# Surge Config New Update 10.01
+# Surge Config New Update 10.02
 
 Surge/SurgePro.conf
-
-* 更换了 SSEncrypt.module 的源地址 可能需要重新下载
 
 [General]
 
@@ -49,34 +47,68 @@ Surge/SurgePro.conf
 //将配置中的 allow-wifi-access = 0 改为 allow-wifi-access = true 即可开启共享模式。
 
 // Apple
-+DOMAIN-KEYWORD,safari-extensions,✈️ Proxy
+DOMAIN-KEYWORD,fmfmobile,cn Proxy
+DOMAIN-KEYWORD,content.icloud,cn Proxy
+DOMAIN-KEYWORD,safari-extensions,🍎 Proxy
 
-// 163
-+DOMAIN-SUFFIX,afp.alicdn.com,REJECT
-+DOMAIN-SUFFIX,img1.126.net,REJECT
-// 修复网易新闻图片无法加载
--DOMAIN-SUFFIX,ws.126.net,REJECT
+DOMAIN-SUFFIX,captive.apple.com,cn Proxy
+DOMAIN-SUFFIX,itsliveradio.apple.com,cn Proxy
 
-// QQ
-+DOMAIN-SUFFIX,buluo.qq.com,REJECT
+DOMAIN-SUFFIX,apple.com,cn Proxy
+DOMAIN-SUFFIX,cdn-apple.com,cn Proxy
+DOMAIN-SUFFIX,icloud-content.com,cn Proxy
 
-// AD Block
-+DOMAIN-SUFFIX,doubleverify.com,REJECT
+DOMAIN-SUFFIX,apple.co,🍎 Proxy
+DOMAIN-SUFFIX,icloud.com,🍎 Proxy
+DOMAIN-SUFFIX,itunes.com,🍎 Proxy
+DOMAIN-SUFFIX,itunes.apple.com,🍎 Proxy
+DOMAIN-SUFFIX,amazonaws.com,🍎 Proxy
+DOMAIN-SUFFIX,mzstatic.com,🍎 Proxy
 
-[Host]
-// Apple 加速
-// Auto
-+aod.itunes.apple.com = hkg.aapldns.xyz
-+streamingaudio.itunes.apple.com = hkg.aapldns.xyz
-+aodp.itunes.apple.com = hkg.aapldns.xyz
-+iosapps.itunes.apple.com = hkg.aapldns.xyz
-+osxapps.itunes.apple.com = hkg.aapldns.xyz
-+swcdn.apple.com = hkg.aapldns.xyz
-+appldnld.apple.com = hkg.aapldns.xyz
-+itsliveradio.apple.com = 42.99.128.168
+DOMAIN-SUFFIX,ls.apple.com,🍎 Proxy
+
+DOMAIN-SUFFIX,aod.itunes.apple.com,🍎 Proxy,force-remote-dns
+DOMAIN-SUFFIX,streamingaudio.itunes.apple.com,🍎 Proxy,force-remote-dns
+
+// China Net (中国电信)
+# API-1-ChinaNetCenter [ChinaNet] (Avg RTT: 52.443ms)
+se.itunes.apple.com = 222.211.64.122
+su.itunes.apple.com = 222.211.64.122
+upp.itunes.apple.com = 222.211.64.122
+play.itunes.apple.com = 222.211.64.122
+client-api.itunes.apple.com = 222.211.64.122
+# API-2-ChinaCache [ChinaNet] (Avg RTT: 34.180ms)
+itunes.apple.com = 182.247.232.6
+init.itunes.apple.com = 182.247.232.6
+# API-HK-Akamai-1 [HongKong0] (Avg RTT: 79.531ms)
+search.itunes.apple.com = 184.87.97.50
+# API-HK-Akamai-2-AMRadio [HongKong1] (Avg RTT: 220.212ms)
+radio.itunes.apple.com = 104.89.141.101
+radio-activity.itunes.apple.com = 104.89.141.101
+radio-services.itunes.apple.com = 104.89.141.101
+# Apple Music Streaming [ChinaNet-ChinaCache] (Avg RTT: 40.517ms)
+aod.itunes.apple.com = 182.247.233.82
+mvod.itunes.apple.com = 182.247.233.82
+streamingaudio.itunes.apple.com = 182.247.233.82
+
+// China Unicom （中国联通）
+# API-2-ChinaCache [ChinaUnicom] (Avg RTT: 30.913ms)
+itunes.apple.com = 112.90.90.17
+init.itunes.apple.com = 112.90.90.17
+# API-HK-Akamai-1 [HongKong0] (Avg RTT: 36.973ms)
+search.itunes.apple.com = 184.87.97.50
+# API-HK-Akamai-2-AMRadio [HongKong1] (Avg RTT: 39.833ms)
+radio.itunes.apple.com = 23.13.185.169
+radio-activity.itunes.apple.com = 23.13.185.169
+radio-services.itunes.apple.com = 23.13.185.169
+
+// Auto （三网通用）
+aod.itunes.apple.com = hkg.aapldns.xyz
+streamingaudio.itunes.apple.com = hkg.aapldns.xyz
+aodp.itunes.apple.com = hkg.aapldns.xyz
+iosapps.itunes.apple.com = hkg.aapldns.xyz
+osxapps.itunes.apple.com = hkg.aapldns.xyz
+swcdn.apple.com = hkg.aapldns.xyz
+appldnld.apple.com = hkg.aapldns.xyz
+itsliveradio.apple.com = 42.99.128.168
 // aapldns.xyz 由 AppleDNS Team 托管，以 CNAME 的方式解析 Apple 服务器 IP
-
-[URL Rewrite]
-+^http://www.cnbeta.com/assets/js/cb.js reject header
-+^http://s.cimg.163.com/i/img1.126.net reject header
-+^http://s.cimg.163.com/i/afp.alicdn.com reject header
