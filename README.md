@@ -19,7 +19,7 @@
 
 `Surge 规则/差异介绍：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
 
-`更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
+`更新日志/常见Q&A：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
 
 `Apple DNS Series 2：`<kbd>http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2</kbd>
 
