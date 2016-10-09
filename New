@@ -27,10 +27,27 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 电信、联通宽带用户可以自行按照教程生成最适合自身网络环境的 CDN IP 列表，移动宽带用户或嫌麻烦的用户使用 auto 列表即可。
 
-参考：
+
+
+# Benchmarik
+
+请不要使用 google.com 作为测试目标，有可能导致 proxy 服务器 ip 被加入黑名单，导致各种操作需要输入验证码。
+目标 URL 对所有的 policy 是基本公平的，所以请选择像 gstatic.com 这样的在全球都有节点的 URL 作为测试目标。
+建议：http://www.gstatic.com/generate_204
+
+
+
+# Surge Config New Update 10.08
+
+Surge/SurgePro.conf
+
+这次太累太忙了 还在外地 懒得写了具体更新内容 其他地方一点小改动 增加一些屏蔽了应用程序开屏广告
+
+
+Apple DNS参考：
 
 [Host]
-//Apple DNS
+// Apple DNS
 
 // China Net (中国电信)
 # API-1-ChinaNetCenter [ChinaNet] (Avg RTT: 52.443ms)
@@ -88,19 +105,3 @@ swcdn.apple.com = hkg.aapldns.xyz
 appldnld.apple.com = hkg.aapldns.xyz
 itsliveradio.apple.com = 42.99.128.168
 // aapldns.xyz 由 AppleDNS Team 托管，以 CNAME 的方式解析 Apple 服务器 IP
-
-
-
-# Benchmarik
-
-请不要使用 google.com 作为测试目标，有可能导致 proxy 服务器 ip 被加入黑名单，导致各种操作需要输入验证码。
-目标 URL 对所有的 policy 是基本公平的，所以请选择像 gstatic.com 这样的在全球都有节点的 URL 作为测试目标。
-建议：http://www.gstatic.com/generate_204
-
-
-
-# Surge Config New Update 10.08
-
-Surge/SurgePro.conf
-
-这次太累太忙了 还在外地 懒得写了具体更新内容 其他地方一点小改动 增加一些屏蔽了应用程序开屏广告
