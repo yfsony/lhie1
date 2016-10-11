@@ -1,10 +1,16 @@
 # ✈️ Proxy & 🌍 Proxy & 🍎 Proxy
 
+✈️ Proxy = 代理开关(选择 💊Direct 为关闭 选代理服务器即为开启)
+
+🌍 Proxy = 自动代理(选择 💊Direct 为 Pac 模式 选代理服务器即为全局代理)
+
 如果 ✈️ Proxy、🌍 Proxy 都选代理服务器就是全局代理。
 如果连接苹果服务器困难， 🍎 Proxy 选代理服务器，可能会改善一些问题。
 🍎 Proxy 选代理服务器后，可以使用 macOS 自带的“地图”应用 查看各地区的 3D Flyover 。
 
-一般情况下，推荐：✈️ Proxy 选代理服务器，🌍 Proxy 选 💊Direct 直连，🍎 Proxy 选 💊 Direct。
+一般情况下，建议：
+
+✈️ Proxy - 代理服务器 / 🌍 Proxy - 💊Direct 直连 / 🍎 Proxy - 💊 Direct。
 
 
 
@@ -50,26 +56,26 @@ Apple DNS参考：
 // Apple DNS
 
 // China Net (中国电信)
-# API-1-ChinaNetCenter [ChinaNet] (Avg RTT: 52.443ms)
+# API-1-ChinaNetCenter [ChinaNet] (Avg RTT: 9.772ms)
 se.itunes.apple.com = 222.211.64.122
 su.itunes.apple.com = 222.211.64.122
 upp.itunes.apple.com = 222.211.64.122
 play.itunes.apple.com = 222.211.64.122
 client-api.itunes.apple.com = 222.211.64.122
-# API-2-ChinaCache [ChinaNet] (Avg RTT: 34.180ms)
-itunes.apple.com = 182.247.232.6
-init.itunes.apple.com = 182.247.232.6
-# API-HK-Akamai-1 [HongKong0] (Avg RTT: 79.531ms)
+# API-2-ChinaCache [ChinaNet] (Avg RTT: 15.339ms)
+itunes.apple.com = 125.65.247.14
+init.itunes.apple.com = 125.65.247.14
+# API-HK-Akamai-1 [HongKong0] (Avg RTT: 52.706ms)
 search.itunes.apple.com = 184.87.97.50
-# API-HK-Akamai-2-AMRadio [HongKong1] (Avg RTT: 220.212ms)
-radio.itunes.apple.com = 104.89.141.101
-radio-activity.itunes.apple.com = 104.89.141.101
-radio-services.itunes.apple.com = 104.89.141.101
-# Apple Music Streaming [ChinaNet-ChinaCache] (Avg RTT: 40.517ms)
-aod.itunes.apple.com = 182.247.233.82
-mvod.itunes.apple.com = 182.247.233.82
-streamingaudio.itunes.apple.com = 182.247.233.82
-# Beats 1 Radio (Not Available in Mainland China) [Malaysia] (Avg RTT: 121.996ms)
+# API-HK-Akamai-2-AMRadio [HongKong1] (Avg RTT: 58.221ms)
+radio.itunes.apple.com = 184.87.100.246
+radio-activity.itunes.apple.com = 184.87.100.246
+radio-services.itunes.apple.com = 184.87.100.246
+# Apple Music Streaming [ChinaNet-ChinaCache] (Avg RTT: 10.465ms)
+aod.itunes.apple.com = 139.206.198.9
+mvod.itunes.apple.com = 139.206.198.9
+streamingaudio.itunes.apple.com = 139.206.198.9
+# Beats 1 Radio (Not Available in Mainland China) [Malaysia] (Avg RTT: 90.211ms)
 itsliveradio.apple.com = 202.76.239.11
 
 // China Unicom （中国联通）
@@ -92,7 +98,7 @@ radio-services.itunes.apple.com = 23.13.185.169
 aod.itunes.apple.com = 113.207.6.58
 mvod.itunes.apple.com = 113.207.6.58
 streamingaudio.itunes.apple.com = 113.207.6.58
-# Beats 1 Radio (Not Available in Mainland China) [Malaysia] (Avg RTT: 121.996ms)
+# Beats 1 Radio (Not Available in Mainland China) [Malaysia] (Avg RTT: 90.211ms)
 itsliveradio.apple.com = 202.76.239.11
 
 // Auto （三网通用）
