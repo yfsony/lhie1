@@ -1,3 +1,9 @@
+☑️ Set as System Proxy
+
+启用 Surge for Mac 后勾选下拉菜单中的 Set as System Proxy 即可自动向系统网络设置添加必要的参数，因为需要修改系统网络设置，首次勾选时需要输入管理员密码进行确认，去掉 Set as System Proxy 的勾选，会清除网络设置中的代理相关设置。
+
+
+
 # ✈️ Proxy & 🌍 Proxy & 🍎 Proxy
 
 ✈️ Proxy = 代理开关(选择 💊Direct 为关闭 选择，代理服务器 即为开启)
