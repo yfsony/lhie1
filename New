@@ -49,11 +49,13 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 
 
-# Surge Config New Update 10.08
+# Surge Config New Update 10.19
 
-Surge/SurgePro.conf
+去掉 基础版 / Pro版 的区别（只保留 Pro 版）
+修复 apple music 无法连接的问题（去掉 Apple dns）
+修复 爱奇艺 播放困难的问题（临时取消）
+一些其他小改动
 
-这次太累太忙了 还在外地 懒得写了具体更新内容 其他地方一点小改动 增加一些屏蔽了应用程序开屏广告
 
 
 Apple DNS参考：
