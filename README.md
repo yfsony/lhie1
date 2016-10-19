@@ -13,7 +13,7 @@
 * Apple 全系列服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-`下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge-Pro.conf</kbd>
+`下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
 `常见Q&A/更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
 
