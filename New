@@ -1,3 +1,13 @@
+💻 Surge for Mac 客户端下载（使用终端输入以下命令即可）
+
+brew cask install surge
+
+没有 brew 请先运行以下代码安装：
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+
+
 ☑️ Set as System Proxy
 
 启用 Surge for Mac 后勾选下拉菜单中的 Set as System Proxy 即可自动向系统网络设置添加必要的参数，因为需要修改系统网络设置，首次勾选时需要输入管理员密码进行确认，去掉 Set as System Proxy 的勾选，会清除网络设置中的代理相关设置。

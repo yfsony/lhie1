@@ -15,7 +15,7 @@
 
 `下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
-`常见Q&A/更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
+`常见Q&A / 更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
 
 `Surge 规则介绍：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
 
