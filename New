@@ -59,12 +59,13 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 
 
-# Surge Config New Update 10.19
+# Surge/Shadowrocket Config New Update 10.26
 
-去掉 基础版 / Pro版 的区别（只保留 Pro 版）
-修复 apple music 无法连接的问题（去掉 Apple dns）
-修复 爱奇艺 播放困难的问题
-一些其他小改动
++ DOMAIN-SUFFIX,fz.letv.com,REJECT
++ DOMAIN-SUFFIX,g3.letv.com,REJECT
++ DOMAIN-SUFFIX,minisite.letv.com,REJECT
++ DOMAIN-SUFFIX,msg.video.qiyi.com,REJECT
++ DOMAIN-SUFFIX,msg2.video.qiyi.com,REJECT
 
 
 
