@@ -26,11 +26,11 @@ brew cask install surge
 
 一般情况下，建议：
 
-✈️ Proxy - 代理服务器 / 🌍 Proxy - 💊Direct 直连 / 🍎 Proxy - 💊 Direct。
+✈️ Proxy - 代理服务器 / 🌍 Proxy - 💊Direct 直连 / 🍎 Proxy - 💊 Direct
 
 
 
-# Surge for iOS 开启共享模式 http://t.cn/RVpg6zC
+# Surge for iOS 开启共享模式 http://t.cn/RfzsjMa
 
 Surge 在下次更新增加了代理共享模式，只需要开启就能让 Wi-Fi 网络中的其他设备通过这台 iPhone 代理访问网络。
 到高级设置中开启 Allow Wi-Fi Access ，或者直接修改配置文件，添加一行参数 allow-wifi-access = true。
