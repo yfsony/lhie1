@@ -59,14 +59,22 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 
 
-# Surge/Shadowrocket Config New Update 10.26
+# Surge/Shadowrocket Config New Update 11.08
 
-+ DOMAIN-SUFFIX,fz.letv.com,REJECT
-+ DOMAIN-SUFFIX,g3.letv.com,REJECT
-+ DOMAIN-SUFFIX,minisite.letv.com,REJECT
-+ DOMAIN-SUFFIX,msg.video.qiyi.com,REJECT
-+ DOMAIN-SUFFIX,msg2.video.qiyi.com,REJECT
+Updates：
+DOMAIN-SUFFIX,adash.m.taobao.com,REJECT
+DOMAIN-SUFFIX,adashx.m.taobao.com,REJECT
+DOMAIN-SUFFIX,adashbc.m.taobao.com,REJECT
+DOMAIN-SUFFIX,httb1.bdstatic.com,REJECT
+DOMAIN-SUFFIX,59wd.com,REJECT
+DOMAIN-SUFFIX,gkuqd.com,REJECT
+DOMAIN-SUFFIX,graph.facebook.com,REJECT
+DOMAIN-SUFFIX,mmstat.com,REJECT
 
+Delete：
+DOMAIN-SUFFIX,yes1.feng.com,REJECT
+DOMAIN-SUFFIX,yiqifa.com,REJECT
+DOMAIN,adash.m.taobao.com,REJECT
 
 
 Apple DNS参考：
