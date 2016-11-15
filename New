@@ -61,20 +61,18 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 # Surge/Shadowrocket Config New Update 11.08
 
-Updates：
-DOMAIN-SUFFIX,adash.m.taobao.com,REJECT
-DOMAIN-SUFFIX,adashx.m.taobao.com,REJECT
-DOMAIN-SUFFIX,adashbc.m.taobao.com,REJECT
-DOMAIN-SUFFIX,httb1.bdstatic.com,REJECT
-DOMAIN-SUFFIX,59wd.com,REJECT
-DOMAIN-SUFFIX,gkuqd.com,REJECT
-DOMAIN-SUFFIX,graph.facebook.com,REJECT
-DOMAIN-SUFFIX,mmstat.com,REJECT
+New：
+DOMAIN-SUFFIX,c.l.qq.com,REJECT
+DOMAIN-SUFFIX,cpro.qqtn.com,REJECT
+
+DOMAIN-SUFFIX,yes1.feng.com,REJECT
+
+DOMAIN-SUFFIX,conoha.jp,DIRECT
+
+DOMAIN-SUFFIX,lhie1.com,DIRECT
 
 Delete：
-DOMAIN-SUFFIX,yes1.feng.com,REJECT
-DOMAIN-SUFFIX,yiqifa.com,REJECT
-DOMAIN,adash.m.taobao.com,REJECT
+// DOMAIN-SUFFIX,yes1.feng.com,REJECT
 
 
 Apple DNS参考：
