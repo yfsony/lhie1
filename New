@@ -74,6 +74,12 @@ DOMAIN-SUFFIX,lhie1.com,DIRECT
 Delete：
 // DOMAIN-SUFFIX,yes1.feng.com,REJECT
 
+^http://fengplus.feng.com/index.php _ reject
+^http://push.feng.com/index.php _ reject
+
+介绍：
+修复了[威锋]客户端[社区 - 热门]连接失败的问题
+
 
 Apple DNS参考：
 
