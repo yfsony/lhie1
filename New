@@ -30,7 +30,7 @@ brew cask install surge
 
 
 
-# Surge for iOS 开启共享模式 http://t.cn/RfzsjMa
+# Surge for iOS 开启共享模式 https://medium.com/@scomper/局域网其他设备共享上网-dd29e18853da#.6w19tdsh9
 
 Surge 在下次更新增加了代理共享模式，只需要开启就能让 Wi-Fi 网络中的其他设备通过这台 iPhone 代理访问网络。
 到高级设置中开启 Allow Wi-Fi Access ，或者直接修改配置文件，添加一行参数 allow-wifi-access = true。
