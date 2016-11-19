@@ -59,26 +59,48 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 
 
-# Surge/Shadowrocket Config New Update 11.08
+# Surge/Shadowrocket Config New Update 11.19
 
 New：
-DOMAIN-SUFFIX,c.l.qq.com,REJECT
-DOMAIN-SUFFIX,cpro.qqtn.com,REJECT
+DOMAIN-SUFFIX,api.cupid.iqiyi.com,REJECT
+DOMAIN-SUFFIX,api.cupid.qiyi.com,REJECT
+DOMAIN-SUFFIX,cupid.iqiyi.com,REJECT
+DOMAIN-SUFFIX,iface.iqiyi.com,REJECT
+DOMAIN-SUFFIX,iface2.iqiyi.com,REJECT
 
-DOMAIN-SUFFIX,yes1.feng.com,REJECT
+DOMAIN-SUFFIX,bintray.com,✈️ Proxy,enhanced-mode
 
-DOMAIN-SUFFIX,conoha.jp,DIRECT
+DOMAIN-KEYWORD,google,✈️ Proxy,force-remote-dns,enhanced-mode
 
-DOMAIN-SUFFIX,lhie1.com,DIRECT
+IP-CIDR,115.29.247.48/32,REJECT,no-resolve
+
+IP-CIDR,43.249.72.0/24,✈️ Proxy,no-resolve
+IP-CIDR,64.30.224.0/24,✈️ Proxy,no-resolve
+IP-CIDR,117.18.232.0/21,✈️ Proxy,no-resolve
+IP-CIDR,216.58.197.100/32,✈️ Proxy,no-resolve
+
+^http://www.inoreader.com/adv _ reject
 
 Delete：
-// DOMAIN-SUFFIX,yes1.feng.com,REJECT
+// DOMAIN-SUFFIX,cupid.iqiyi.com,REJECT
+// DOMAIN-SUFFIX,cupid.qiyi.com,REJECT
 
-^http://fengplus.feng.com/index.php _ reject
-^http://push.feng.com/index.php _ reject
+DOMAIN-KEYWORD,google,✈️ Proxy,force-remote-dns
+
+^http://106.75.65.92 _ reject
+^http://101.251.211.235 _ reject
+^http://103.249.254.113 _ reject
+^http://120.132.57.41 _ reject
+^http://120.132.63.203 _ reject
+^http://139.196.239.52 _ reject
+^http://cache.gclick.cn/ _ reject
+^http://cache.changjingyi.cn/ _ reject
+^http://www.babyye.com/ _ reject
+^http://www.likeji.net/ _ reject
+^http://m.coolaiy.com/ _ reject
 
 介绍：
-修复了[威锋]客户端[社区 - 热门]连接失败的问题
+更改了[苹果]大部分连接方式
 
 
 Apple DNS参考：
