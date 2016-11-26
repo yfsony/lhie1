@@ -59,48 +59,16 @@ auto(原 CMCC)：电信、联通、移动 三网通用
 
 
 
-# Surge/Shadowrocket Config New Update 11.19
+# Surge/Shadowrocket Config New Update 11.27
 
 New：
-DOMAIN-SUFFIX,api.cupid.iqiyi.com,REJECT
-DOMAIN-SUFFIX,api.cupid.qiyi.com,REJECT
-DOMAIN-SUFFIX,cupid.iqiyi.com,REJECT
-DOMAIN-SUFFIX,iface.iqiyi.com,REJECT
-DOMAIN-SUFFIX,iface2.iqiyi.com,REJECT
-
-DOMAIN-SUFFIX,bintray.com,✈️ Proxy,enhanced-mode
-
-DOMAIN-KEYWORD,google,✈️ Proxy,force-remote-dns,enhanced-mode
-
-IP-CIDR,115.29.247.48/32,REJECT,no-resolve
-
-IP-CIDR,43.249.72.0/24,✈️ Proxy,no-resolve
-IP-CIDR,64.30.224.0/24,✈️ Proxy,no-resolve
-IP-CIDR,117.18.232.0/21,✈️ Proxy,no-resolve
-IP-CIDR,216.58.197.100/32,✈️ Proxy,no-resolve
-
-^http://www.inoreader.com/adv _ reject
+DOMAIN-SUFFIX,cnzz.com,REJECT
 
 Delete：
-// DOMAIN-SUFFIX,cupid.iqiyi.com,REJECT
-// DOMAIN-SUFFIX,cupid.qiyi.com,REJECT
-
-DOMAIN-KEYWORD,google,✈️ Proxy,force-remote-dns
-
-^http://106.75.65.92 _ reject
-^http://101.251.211.235 _ reject
-^http://103.249.254.113 _ reject
-^http://120.132.57.41 _ reject
-^http://120.132.63.203 _ reject
-^http://139.196.239.52 _ reject
-^http://cache.gclick.cn/ _ reject
-^http://cache.changjingyi.cn/ _ reject
-^http://www.babyye.com/ _ reject
-^http://www.likeji.net/ _ reject
-^http://m.coolaiy.com/ _ reject
+DOMAIN-KEYWORD,cnzz,REJECT
 
 介绍：
-更改了[苹果]大部分连接方式
+修复误杀
 
 
 Apple DNS参考：
