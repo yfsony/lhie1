@@ -1,14 +1,14 @@
 # Surge/Shadowrocket Config
 
-New Update 11.29
+New Update
 
-New：
-很多
+12.02
+修复 [Surge Mac TUN] 启用失败的问题
+修复 [爱奇艺] 客户端加载缓慢
+增加 [dns-server]：119.29.29.29, 1.2.4.8, 210.2.4.8, 223.5.5.5, 223.6.6.6
 
-Delete：
-很多
-
-介绍：
+12.01
+默认启用 [enhanced-mode-by-rule] 和 [exclude-simple-hostnames]
 
 # ☁️ Proxy & 💊 Proxy & 🍎 Proxy
 
