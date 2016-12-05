@@ -2,6 +2,10 @@
 
 New Update
 
+12.05
+增加 [dump-body-and-save = false]
+增加一系列广告屏蔽
+
 12.02
 修复 [Surge Mac TUN] 启用失败的问题
 修复 [爱奇艺] 客户端加载缓慢
@@ -9,6 +13,8 @@ New Update
 
 12.01
 默认启用 [enhanced-mode-by-rule] 和 [exclude-simple-hostnames]
+
+
 
 # ☁️ Proxy & 💊 Proxy & 🍎 Proxy
 
