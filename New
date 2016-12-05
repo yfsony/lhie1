@@ -1,37 +1,17 @@
-# Surge/Shadowrocket Config
-
-New Update
-
 12.05
 增加 [dump-body-and-save = false]
-增加一系列广告屏蔽
+增强 [广告]屏蔽
+增加 [代理]名单
+加速 [Apple]服务
 
 12.02
 修复 [Surge Mac TUN] 启用失败的问题
 修复 [爱奇艺] 客户端加载缓慢
-增加 [dns-server]：119.29.29.29, 1.2.4.8, 210.2.4.8, 223.5.5.5, 223.6.6.6
+增加 [dns-server：119.29.29.29, 1.2.4.8, 210.2.4.8, 223.5.5.5, 223.6.6.6]
 
 12.01
-默认启用 [enhanced-mode-by-rule] 和 [exclude-simple-hostnames]
+增加 [allow-wifi-access = false]
+增加 [enhanced-mode-by-rule = true]
+增加 [exclude-simple-hostnames = true]
 
-
-
-# ☁️ Proxy & 💊 Proxy & 🍎 Proxy
-
-☁️ Proxy ： 直连 / 代理服务器(选择 [🌍 Direct] 为 直连，选择 [其他] 则通过 代理服务器 访问)
-
-💊 Proxy ： 自动代理 / 全局代理(选择 [🌍 Direct] 为 自动代理 ，选择 [☁️ Proxy] 即为 全局代理 )
-
-🍎 Proxy ： 如果连接苹果服务器困难， 🍎 Proxy 选 代理服务器 ，可能会改善一些问题。
-
-如果 ： [☁️ Proxy] 、 [💊 Proxy] 都选择 代理服务器 ，则为全局代理（不包括 [🍎 Proxy]）。
-
-
-# Auto Test Group：
-
-🏃 Auto ： 对规则内的所有服务器进行“测速”，并根据最优结果自动选择节点。
-
-🍎 Auto ： 对规则内的美国服务器进行“测速”，并根据最优结果自动选择节点。（针对 [🍎 Proxy] 所设计的分组）
-
-
-建议 ： ☁️ Proxy - 代理服务器 、 💊 Proxy - 🌍 Direct 、 🍎 Proxy - 🌍 Direct / 🍎 Auto
+# Surge/Shadowrocket Config
