@@ -15,15 +15,15 @@
 * Apple 服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-`下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
+    - 下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
-`常见Q&A：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Q%26A</kbd>
+    - 常见Q&A：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Q%26A</kbd>
 
-`更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
+    - 更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
 
-`Surge 规则介绍：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
+    - Surge 规则介绍：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
 
-`Apple DNS Series 2：`<kbd>http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2</kbd>
+    - Apple DNS Series 2：`<kbd>http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2</kbd>
 
 
 # Shadowrocket.conf
@@ -43,27 +43,28 @@
 * Apple 服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-`下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
+    - 下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
 
-# More
+
+# more
 
 * 客户端：
-    - iOS：`<kbd>Surge, Shadowrocket, Wingy, Potatso</kbd>
-    - Android：`<kbd>http://t.cn/RIQFJDN</kbd>
-    - Mac：`<kbd>http://t.cn/RLT8Hju</kbd>
-    - Windows：`<kbd>http://t.cn/RymTzsh</kbd>
+    - iOS：<kbd>Surge、Shadowrocket、Wingy、Potatso</kbd>
+    - Android：<kbd>https://github.com/shadowsocksr/shadowsocksr-android/releases</kbd>
+    - Mac：<kbd>https://github.com/shadowsocks/shadowsocks-iOS/releases</kbd>
+    - Windows：<kbd>https://github.com/shadowsocksr/shadowsocksr-csharp/releases</kbd>
 
 * 教程：
-    - Surge for iOS：`<kbd>http://t.cn/RUfiwq0</kbd>
-    - Surge for Mac：`<kbd>http://t.cn/RIQs6O7</kbd>
-    - Shadowrocket：`<kbd>http://t.cn/RqKIk3Z</kbd>
+    - Surge for iOS：<kbd>http://t.cn/RUfiwq0</kbd>
+    - Surge for Mac：<kbd>http://t.cn/RIQs6O7</kbd>
+    - Shadowrocket：<kbd>http://t.cn/RqKIk3Z</kbd>
 
 * 一键更新：
-    - Surge：`<kbd>http://t.cn/RIRoYcA</kbd>
-    - Surge (1.2.6)：`<kbd>http://t.cn/RIRoav9</kbd>
+    - Surge：<kbd>http://t.cn/RIRoYcA</kbd>
+    - Surge (1.2.6)：<kbd>http://t.cn/RIRoav9</kbd>
 
 * 其他：
-    - Surge for Mac 破解版：`<kbd>http://www.lhie1.com/Surge.zip</kbd>
+    - Surge for Mac 破解版：<kbd>http://t.cn/RIRKX0K</kbd>
 
 
 # line
