@@ -48,22 +48,22 @@
 # More
 
 * 客户端：
-    - iOS：Surge, Shadowrocket, Wingy, Potatso
-    - Android：http://t.cn/RIQFJDN
-    - Mac：http://t.cn/RLT8Hju
-    - Windows：http://t.cn/RymTzsh
+    - iOS：`<kbd>Surge, Shadowrocket, Wingy, Potatso</kbd>
+    - Android：`<kbd>http://t.cn/RIQFJDN</kbd>
+    - Mac：`<kbd>http://t.cn/RLT8Hju</kbd>
+    - Windows：`<kbd>http://t.cn/RymTzsh</kbd>
 
 * 教程：
-    - Surge for iOS：http://t.cn/RUfiwq0
-    - Surge for Mac：http://t.cn/RIQs6O7
-    - Shadowrocket：http://t.cn/RqKIk3Z
+    - Surge for iOS：`<kbd>http://t.cn/RUfiwq0</kbd>
+    - Surge for Mac：`<kbd>http://t.cn/RIQs6O7</kbd>
+    - Shadowrocket：`<kbd>http://t.cn/RqKIk3Z</kbd>
 
 * 一键更新：
-    - Surge：http://t.cn/RIRoYcA
-    - Surge (1.2.6)：http://t.cn/RIRoav9
+    - Surge：`<kbd>http://t.cn/RIRoYcA</kbd>
+    - Surge (1.2.6)：`<kbd>http://t.cn/RIRoav9</kbd>
 
 * 其他：
-    - Surge for Mac 破解版：http://www.lhie1.com/Surge.zip
+    - Surge for Mac 破解版：`<kbd>http://www.lhie1.com/Surge.zip</kbd>
 
 
 # line
