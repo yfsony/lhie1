@@ -17,7 +17,7 @@
 
 `下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
-`一键更新：`<kbd>https://workflow.is/workflows/b156346715f443b39d9b9d6b1b9d54c4</kbd>
+`一键更新：`<kbd>https://workflow.is/workflows/9cc2569ac95e4964a161b72837149a38</kbd>
 
 `常见Q&A：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Q%26A</kbd>
 
