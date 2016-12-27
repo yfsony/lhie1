@@ -15,15 +15,15 @@
 * Apple 服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-    - 下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
+    - 下载地址：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
-    - 常见Q&A：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Q%26A</kbd>
+    - 常见Q&A：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Q%26A</kbd>
 
-    - 更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
+    - 更新日志：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
 
-    - Surge 规则介绍：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
+    - Surge 规则介绍：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
 
-    - Apple DNS Series 2：`<kbd>http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2</kbd>
+    - Apple DNS Series 2：<kbd>http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2</kbd>
 
 
 # Shadowrocket.conf
@@ -43,7 +43,7 @@
 * Apple 服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-    - 下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
+    - 下载地址：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
 
 
 # more
