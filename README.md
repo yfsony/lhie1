@@ -17,8 +17,6 @@
 
 `下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
-`一键更新：`<kbd>https://workflow.is/workflows/9cc2569ac95e4964a161b72837149a38</kbd>
-
 `常见Q&A：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Q%26A</kbd>
 
 `更新日志：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
@@ -46,6 +44,26 @@
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
 `下载地址：`<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
+
+# More
+
+* 客户端：
+    - iOS：Surge, Shadowrocket, Wingy, Potatso
+    - Android：http://t.cn/RIQFJDN
+    - Mac：http://t.cn/RLT8Hju
+    - Windows：http://t.cn/RymTzsh
+
+* 教程：
+    - Surge for iOS：http://t.cn/RUfiwq0
+    - Surge for Mac：http://t.cn/RIQs6O7
+    - Shadowrocket：http://t.cn/RqKIk3Z
+
+* 一键更新：
+    - Surge：http://t.cn/RIRoYcA
+    - Surge (1.2.6)：http://t.cn/RIRoav9
+
+* 其他：
+    - Surge for Mac 破解版：http://www.lhie1.com/Surge.zip
 
 
 # line
