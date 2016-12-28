@@ -15,12 +15,12 @@
 * Apple 服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-<kbd>♻️ 规则：
-    - Surge：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
+<kbd> ♻️ 规则：</kbd>
+    - Surge：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
     
-    - Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
+    - Shadowrocket：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
     
-    - Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf</kbd>
+    - Surge (1.2.6)：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/low.conf</kbd>
 
 # more
 
