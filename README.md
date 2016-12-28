@@ -17,64 +17,64 @@
 
 ♻️ 规则：
 
-    - Surge：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
+    Surge：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
     
-    - Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
+    Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
     
-    - Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf
+    Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf
 
 # more
 
 ❓ 问题：
 
-    - 常见Q&A：http://t.cn/RIm7yvR
+    常见Q&A：http://t.cn/RIm7yvR
     
-    - 更新日志：http://t.cn/RIm7Ubg
+    更新日志：http://t.cn/RIm7Ubg
 
 🔰 客户端：
 
     * iOS
-        * Surge：https://appsto.re/cn/D0Q_9.i
+        Surge：https://appsto.re/cn/D0Q_9.i
         
-        * Shadowrocket：https://appsto.re/cn/UDjM3.i
+        Shadowrocket：https://appsto.re/cn/UDjM3.i
         
-        * Wingy：https://appsto.re/cn/19xBeb.i
+        Wingy：https://appsto.re/cn/19xBeb.i
         
-        * Potatso：https://appsto.re/cn/OIk1_.i
+        Potatso：https://appsto.re/cn/OIk1_.i
         
     * Android
-        * ShadowsocksR：http://t.cn/RIQFJDN
+        ShadowsocksR：http://t.cn/RIQFJDN
         
-        * Postern：http://www.tunnel-workshop.com
+        Postern：http://www.tunnel-workshop.com
         
     * macOS
-        * ShadowsocksX：http://t.cn/RLT8Hju
+        ShadowsocksX：http://t.cn/RLT8Hju
         
-        * Flora：http://t.cn/RfaeLmd
+        Flora：http://t.cn/RfaeLmd
         
-        * Surge：http://nssurge.com
+        Surge：http://nssurge.com
         
     * Windows
-        * ShadowsocksR：http://t.cn/RymTzsh
+        ShadowsocksR：http://t.cn/RymTzsh
         
 
 📋 教程：
 
-    - Surge for iOS：http://t.cn/RUfiwq0
+    Surge for iOS：http://t.cn/RUfiwq0
     
-    - Surge for Mac：http://t.cn/RIQs6O7
+    Surge for Mac：http://t.cn/RIQs6O7
     
-    - Shadowrocket：http://t.cn/RqKIk3Z
+    Shadowrocket：http://t.cn/RqKIk3Z
     
 
 🆙 一键更新：
 
-    - Surge：http://t.cn/RImw5BS
+    Surge：http://t.cn/RImw5BS
     
 
 💤 其他：
 
-    - Surge for Mac 破解版：http://t.cn/RIRKX0K
+    Surge for Mac 破解版：http://t.cn/RIRKX0K
 
 # line
 
