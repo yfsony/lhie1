@@ -17,64 +17,64 @@
 
 ♻️ 规则：
 
-    - Surge：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
+    - Surge：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
     
-    - Shadowrocket：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
+    - Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
     
-    - Surge (1.2.6)：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/low.conf</kbd>
+    - Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf
 
 # more
 
 ❓ 问题：
 
-    - 常见Q&A：<kbd>http://t.cn/RIm7yvR</kbd>
+    - 常见Q&A：http://t.cn/RIm7yvR
     
-    - 更新日志：<kbd>http://t.cn/RIm7Ubg</kbd>
+    - 更新日志：http://t.cn/RIm7Ubg
 
 🔰 客户端：
 
     * iOS
-        * Surge：<kbd>https://appsto.re/cn/D0Q_9.i</kbd>
+        * Surge：https://appsto.re/cn/D0Q_9.i
         
-        * Shadowrocket：<kbd>https://appsto.re/cn/UDjM3.i</kbd>
+        * Shadowrocket：https://appsto.re/cn/UDjM3.i
         
-        * Wingy：<kbd>https://appsto.re/cn/19xBeb.i</kbd>
+        * Wingy：https://appsto.re/cn/19xBeb.i
         
-        * Potatso：<kbd>https://appsto.re/cn/OIk1_.i</kbd>
+        * Potatso：https://appsto.re/cn/OIk1_.i
         
     * Android
-        * ShadowsocksR：<kbd>http://t.cn/RIQFJDN</kbd>
+        * ShadowsocksR：http://t.cn/RIQFJDN
         
-        * Postern：<kbd>http://www.tunnel-workshop.com</kbd>
+        * Postern：http://www.tunnel-workshop.com
         
     * macOS
-        * ShadowsocksX：<kbd>http://t.cn/RLT8Hju</kbd>
+        * ShadowsocksX：http://t.cn/RLT8Hju
         
-        * Flora：<kbd>http://t.cn/RfaeLmd</kbd>
+        * Flora：http://t.cn/RfaeLmd
         
-        * Surge：<kbd>http://nssurge.com</kbd>
+        * Surge：http://nssurge.com
         
     * Windows
-        * ShadowsocksR：<kbd>http://t.cn/RymTzsh</kbd>
+        * ShadowsocksR：http://t.cn/RymTzsh
         
 
 📋 教程：
 
-    - Surge for iOS：<kbd>http://t.cn/RUfiwq0</kbd>
+    - Surge for iOS：http://t.cn/RUfiwq0
     
-    - Surge for Mac：<kbd>http://t.cn/RIQs6O7</kbd>
+    - Surge for Mac：http://t.cn/RIQs6O7
     
-    - Shadowrocket：<kbd>http://t.cn/RqKIk3Z</kbd>
+    - Shadowrocket：http://t.cn/RqKIk3Z
     
 
 🆙 一键更新：
 
-    - Surge：<kbd>http://t.cn/RImw5BS</kbd>
+    - Surge：http://t.cn/RImw5BS
     
 
 💤 其他：
 
-    - Surge for Mac 破解版：<kbd>http://t.cn/RIRKX0K</kbd>
+    - Surge for Mac 破解版：http://t.cn/RIRKX0K
 
 # line
 
