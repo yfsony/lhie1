@@ -17,6 +17,8 @@
 
     - 下载地址：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
 
+    - 一键更新：<kbd>https://workflow.is/workflows/4590d27de54e41a794efcf1464193368</kbd>
+
     - 常见Q&A：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Q%26A</kbd>
 
     - 更新日志：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
@@ -60,7 +62,6 @@
     - Shadowrocket：<kbd>http://t.cn/RqKIk3Z</kbd>
 
 * 一键更新：
-    - Surge：<kbd>http://t.cn/RIRoYcA</kbd>
     - Surge (1.2.6)：<kbd>http://t.cn/RIRoav9</kbd>
 
 * 其他：
@@ -69,8 +70,15 @@
 
 # line
 
+[![taobao-logo]](https://shop116319160.taobao.com)
+[![weibo-logo]](http://www.weibo.com/1748625493)
+
 *** | Raw |
 ---------|:---------:
 淘宝店铺  | [榆梦 LHIE1](https://shop116319160.taobao.com)
 新浪微博 | [ @lhie1](http://www.weibo.com/1748625493)
 Telegram | https://telegram.me/lhie1x
+
+# License
+
+* 可以拷贝、转发，但是必须提供原作者信息，同时也不能将本项目用于商业用途。
