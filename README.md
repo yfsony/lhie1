@@ -19,11 +19,11 @@
 
     - 一键更新：<kbd>https://workflow.is/workflows/4590d27de54e41a794efcf1464193368</kbd>
 
-    - 常见Q&A：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Q%26A</kbd>
+    - 常见Q&A：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/more/Q%26A</kbd>
 
-    - 更新日志：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/New</kbd>
+    - 更新日志：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/more/New</kbd>
 
-    - Surge 规则介绍：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Config-Example</kbd>
+    - Surge 规则介绍：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/more/Config-Example</kbd>
 
     - Apple DNS Series 2：<kbd>http://lhie1.tumblr.com/post/142124016216/apple-dns-series-2</kbd>
 
