@@ -70,7 +70,7 @@
 
 # line
 
-[![](/img/weibo.png "我的微博，欢迎关注")][http://www.weibo.com/1748625493]
+![](/img/weibo.png "http://www.weibo.com/1748625493")
 
 *** | Raw |
 ---------|:---------:
