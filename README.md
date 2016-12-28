@@ -70,7 +70,7 @@
 
 # line
 
-[![https://ww4.sinaimg.cn/large/006y8lVagw1fb6zba339vj302800rq2q.jpg]](http://www.weibo.com/1748625493)
+[![weibo-logo]](https://www.weibo.com/1748625493)
 
 *** | Raw |
 ---------|:---------:
