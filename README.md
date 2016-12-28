@@ -83,4 +83,4 @@ Telegram | https://telegram.me/lhie1x
 
 # 捐赠
 
-![](/img/alipay.png "alipay：lhie1@qq.com")]
+![](/img/alipay.jpeg "alipay：lhie1@qq.com")]
