@@ -15,7 +15,8 @@
 * Apple 服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-<kbd> ♻️ 规则：</kbd>
+♻️ 规则：
+
     - Surge：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
     
     - Shadowrocket：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
@@ -25,11 +26,13 @@
 # more
 
 ❓ 问题：
+
     - 常见Q&A：<kbd>http://t.cn/RIm7yvR</kbd>
     
     - 更新日志：<kbd>http://t.cn/RIm7Ubg</kbd>
 
 🔰 客户端：
+
     * iOS
         * Surge：<kbd>https://appsto.re/cn/D0Q_9.i</kbd>
         
@@ -56,6 +59,7 @@
         
 
 📋 教程：
+
     - Surge for iOS：<kbd>http://t.cn/RUfiwq0</kbd>
     
     - Surge for Mac：<kbd>http://t.cn/RIQs6O7</kbd>
@@ -64,10 +68,12 @@
     
 
 🆙 一键更新：
+
     - Surge：<kbd>http://t.cn/RImw5BS</kbd>
     
 
 💤 其他：
+
     - Surge for Mac 破解版：<kbd>http://t.cn/RIRKX0K</kbd>
 
 # line
