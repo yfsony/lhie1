@@ -81,6 +81,6 @@ Telegram | https://telegram.me/lhie1x
 
 * 可以拷贝、转发，但是必须提供原作者信息，同时也不能将本项目用于商业用途。
 
-# 捐赠
+# 帮助到您？捐赠鼓励！
 
-![](/img/alipay.png "alipay：lhie1@qq.com")]
+![](/img/alipay.png "alipay：lhie1@qq.com")
