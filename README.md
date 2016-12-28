@@ -17,38 +17,55 @@
 
 ♻️ 规则：
     - Surge：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf</kbd>
+    
     - Shadowrocket：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf</kbd>
+    
     - Surge (1.2.6)：<kbd>https://raw.githubusercontent.com/lhie1/Surge/master/low.conf</kbd>
 
 # more
 
 ❓ 问题：
     - 常见Q&A：<kbd>http://t.cn/RIm7yvR</kbd>
+    
     - 更新日志：<kbd>http://t.cn/RIm7Ubg</kbd>
 
 🔰 客户端：
     * iOS
         * Surge：<kbd>https://appsto.re/cn/D0Q_9.i</kbd>
+        
         * Shadowrocket：<kbd>https://appsto.re/cn/UDjM3.i</kbd>
+        
         * Wingy：<kbd>https://appsto.re/cn/19xBeb.i</kbd>
+        
         * Potatso：<kbd>https://appsto.re/cn/OIk1_.i</kbd>
+        
     * Android
         * ShadowsocksR：<kbd>http://t.cn/RIQFJDN</kbd>
+        
         * Postern：<kbd>http://www.tunnel-workshop.com</kbd>
+        
     * macOS
         * ShadowsocksX：<kbd>http://t.cn/RLT8Hju</kbd>
+        
         * Flora：<kbd>http://t.cn/RfaeLmd</kbd>
+        
         * Surge：<kbd>http://nssurge.com</kbd>
+        
     * Windows
         * ShadowsocksR：<kbd>http://t.cn/RymTzsh</kbd>
+        
 
 📋 教程：
     - Surge for iOS：<kbd>http://t.cn/RUfiwq0</kbd>
+    
     - Surge for Mac：<kbd>http://t.cn/RIQs6O7</kbd>
+    
     - Shadowrocket：<kbd>http://t.cn/RqKIk3Z</kbd>
+    
 
 🆙 一键更新：
     - Surge：<kbd>http://t.cn/RImw5BS</kbd>
+    
 
 💤 其他：
     - Surge for Mac 破解版：<kbd>http://t.cn/RIRKX0K</kbd>
