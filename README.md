@@ -76,15 +76,11 @@
 新浪微博 | [ @lhie1](http://www.weibo.com/1748625493)
 Telegram | https://telegram.me/lhie1x
 
+# 帮助到您？捐赠鼓励！
+
+![](/img/alipay.png "alipay：lhie1@qq.com")
+
 
 # License
 
 * 可以拷贝、转发，但是必须提供原作者信息，同时也不能将本项目用于商业用途。
-
-# 帮助到您？捐赠鼓励！
-
-<<<<<<< HEAD
-![](/img/alipay.jpeg "alipay：lhie1@qq.com")]
-=======
-![](/img/alipay.png "alipay：lhie1@qq.com")
->>>>>>> origin/master
