@@ -73,7 +73,7 @@
 
 🆙 一键更新：
 
-    Surge：https://workflow.is/workflows/bdbca31c15d94fabb64289e264533fcf
+    Surge：https://workflow.is/workflows/9764b62c101541589b91dbdff60fd644
     
 
 💤 其他：
