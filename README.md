@@ -73,7 +73,7 @@
 
 🆙 一键更新：
 
-    Surge：http://t.cn/RImw5BS
+    Surge：https://workflow.is/workflows/bdbca31c15d94fabb64289e264533fcf
     
 
 💤 其他：
