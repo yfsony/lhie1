@@ -23,7 +23,7 @@
     
     Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf
 
-    ❓ 问题：
+❓ 问题：
 
     常见Q&A：https://raw.githubusercontent.com/lhie1/Surge/master/more/Q%26A
     
