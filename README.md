@@ -15,7 +15,7 @@
 * Apple 服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-♻️ 规则：
+♻️ Download：
 
     Surge：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
     
@@ -23,13 +23,13 @@
     
     Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf
 
-# more
+    ❓ 问题：
 
-❓ 问题：
-
-    常见Q&A：http://t.cn/RIm7yvR
+    常见Q&A：https://raw.githubusercontent.com/lhie1/Surge/master/more/Q%26A
     
-    更新日志：http://t.cn/RIm7Ubg
+    更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
+
+# more
 
 🔰 客户端：
 
@@ -45,21 +45,21 @@
         
     * Android
     
-        ShadowsocksR：http://t.cn/RIQFJDN
+        ShadowsocksR：https://github.com/shadowsocksr/shadowsocksr-android/releases
         
         Postern：http://www.tunnel-workshop.com
         
     * macOS
     
-        ShadowsocksX：http://t.cn/RLT8Hju
+        ShadowsocksX：https://github.com/shadowsocks/shadowsocks-iOS/releases
         
-        Flora：http://t.cn/RfaeLmd
+        Flora：https://github.com/huacnlee/flora-kit
         
         Surge：http://nssurge.com
         
     * Windows
     
-        ShadowsocksR：http://t.cn/RymTzsh
+        ShadowsocksR：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
         
 
 📋 教程：
