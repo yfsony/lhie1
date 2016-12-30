@@ -92,7 +92,7 @@ Telegram | https://telegram.me/lhie1x
 
 # Q&A
 
-☁️ Proxy & 💊 Proxy & 🍎 Proxy / # Auto Test Group
+    ☁️ Proxy & 💊 Proxy & 🍎 Proxy / # Auto Test Group
 
     ☁️ Proxy ： 直连 / 代理服务器(选择 [🌍 Direct] 为 直连，选择 [其他] 则通过 代理服务器 访问)
 
@@ -110,17 +110,20 @@ Telegram | https://telegram.me/lhie1x
     建议 ： ☁️ Proxy - 代理服务器 、 💊 Proxy - 🌍 Direct 、 🍎 Proxy - 🌍 Direct / 🍎 Auto
 
 
-🚀 SSR 混淆模式 https://github.com/breakwa11/shadowsocks-rss/blob/master/ssr.md
+
+    🚀 SSR 混淆模式 https://github.com/breakwa11/shadowsocks-rss/blob/master/ssr.md
 
     理论上开启混淆模式可以更好的躲开墙的干扰以及非正常流量的限速，那就应当会获得更好的速度和稳定性。
 
 
-🔋 Surge for iOS 耗电高
+
+    🔋 Surge for iOS 耗电
 
     Surge 会接管全局的（几乎）所有通信，所以所有的网络方面电量消耗都会被算在 Surge 头上，实际使用中不会感到 Surge 对电量有明显影响。
 
 
-💻 Surge for macOS 客户端下载（使用终端输入以下命令即可）
+
+    💻 Surge for macOS 客户端下载（使用终端输入以下命令即可）
 
     brew cask install surge
 
@@ -129,27 +132,31 @@ Telegram | https://telegram.me/lhie1x
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 
-☑️ Set as System Proxy
+
+    ☑️ Set as System Proxy
 
     启用 Surge for Mac 后勾选下拉菜单中的 Set as System Proxy 即可自动向系统网络设置添加必要的参数，因为需要修改系统网络设置，首次勾选时需要输入管理员密码进行确认，去掉 Set as System Proxy 的勾选，会清除网络设置中的代理相关设置。
 
 
-📶 Surge for iOS 开启共享模式 https://medium.com/@scomper/局域网其他设备共享上网-dd29e18853da#.6w19tdsh9
+
+    📶 Surge for iOS 开启共享模式 https://medium.com/@scomper/局域网其他设备共享上网-dd29e18853da#.6w19tdsh9
 
     Surge 在增加了代理共享模式，只需要开启就能让 Wi-Fi 网络中的其他设备通过这台 iPhone 代理访问网络。
-到高级设置中开启 Allow Wi-Fi Access ，或者直接修改配置文件，添加一行参数 allow-wifi-access = true。
+    到高级设置中开启 Allow Wi-Fi Access ，或者直接修改配置文件，添加一行参数 allow-wifi-access = true。
 
     其他 Wi-Fi 网络环境下的设备可以输入已经开启共享代理的 Surge 设备的 IP 地址和端口号，（技巧：Surge Log 中能看到开启后本机的 IP 地址和监听端口）将 IP 地址填写到需要共享设备的 Wi-Fi 信息的 HTTP 代理里即可。
 
 
-🏃 Benchmarik
+
+    🏃 Benchmarik
 
     请不要使用 google.com 作为测试目标，有可能导致 proxy 服务器 ip 被加入黑名单，导致各种操作需要输入验证码。
 目标 URL 对所有的 policy 是基本公平的，所以请选择像 gstatic.com 这样的在全球都有节点的 URL 作为测试目标。
 建议：http://www.gstatic.com/generate_204
 
 
- 🍎 Apple DNS （Apple 服务加速） http://t.cn/RcgOudi
+
+     🍎 Apple DNS （Apple 服务加速） http://t.cn/RcgOudi
 
     Apple DNS 通过收集 Apple 在全中国几乎所有省级行政区的 CDN IP 列表，解决 App Store / Mac App Store / iTunes Store / Apple Music / iBooks / TestFlight 在中国部分地区速度缓慢的问题。
 
