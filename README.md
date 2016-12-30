@@ -111,9 +111,13 @@ Telegram | https://telegram.me/lhie1x
 
 
 
+
+
     🚀 SSR 混淆模式 https://github.com/breakwa11/shadowsocks-rss/blob/master/ssr.md
 
     理论上开启混淆模式可以更好的躲开墙的干扰以及非正常流量的限速，那就应当会获得更好的速度和稳定性。
+
+
 
 
 
@@ -123,19 +127,13 @@ Telegram | https://telegram.me/lhie1x
 
 
 
-    💻 Surge for macOS 客户端下载（使用终端输入以下命令即可）
-
-    brew cask install surge
-
-    没有 brew 请先运行以下代码安装：
-
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
 
 
     ☑️ Set as System Proxy
 
     启用 Surge for Mac 后勾选下拉菜单中的 Set as System Proxy 即可自动向系统网络设置添加必要的参数，因为需要修改系统网络设置，首次勾选时需要输入管理员密码进行确认，去掉 Set as System Proxy 的勾选，会清除网络设置中的代理相关设置。
+
+
 
 
 
@@ -148,12 +146,18 @@ Telegram | https://telegram.me/lhie1x
 
 
 
-    🏃 Benchmarik
+
+
+    🏃 Auto / Benchmarik
+
+    测试结果仅供参考，无法检测出 VPS 的带宽
 
     请不要使用 google.com 作为测试目标，有可能导致 proxy 服务器 ip 被加入黑名单，导致各种操作需要输入验证码。
     目标 URL 对所有的 policy 是基本公平的，所以请选择像 gstatic.com 这样的在全球都有节点的 URL 作为测试目标。
     作者建议：http://www.gstatic.com/generate_204
     个人建议：http://www.apple.com
+
+
 
 
 
