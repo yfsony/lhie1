@@ -92,7 +92,7 @@ Telegram | https://telegram.me/lhie1x
 
 # Q&A
 
-    ☁️ Proxy & 💊 Proxy & 🍎 Proxy / # Auto Test Group
+### ☁️ Proxy & 💊 Proxy & 🍎 Proxy / # Auto Test Group
 
     ☁️ Proxy ： 直连 / 代理服务器(选择 [🌍 Direct] 为 直连，选择 [其他] 则通过 代理服务器 访问)
 
@@ -111,33 +111,25 @@ Telegram | https://telegram.me/lhie1x
 
 
 
-
-
-    🚀 SSR 混淆模式 https://github.com/breakwa11/shadowsocks-rss/blob/master/ssr.md
+### 🚀 SSR 混淆模式 https://github.com/breakwa11/shadowsocks-rss/blob/master/ssr.md
 
     理论上开启混淆模式可以更好的躲开墙的干扰以及非正常流量的限速，那就应当会获得更好的速度和稳定性。
 
 
 
-
-
-    🔋 Surge for iOS 耗电
+### 🔋 Surge for iOS 耗电
 
     Surge 会接管全局的（几乎）所有通信，所以所有的网络方面电量消耗都会被算在 Surge 头上，实际使用中不会感到 Surge 对电量有明显影响。
 
 
 
-
-
-    ☑️ Set as System Proxy
+### ☑️ Set as System Proxy
 
     启用 Surge for Mac 后勾选下拉菜单中的 Set as System Proxy 即可自动向系统网络设置添加必要的参数，因为需要修改系统网络设置，首次勾选时需要输入管理员密码进行确认，去掉 Set as System Proxy 的勾选，会清除网络设置中的代理相关设置。
 
 
 
-
-
-    📶 Surge for iOS 开启共享模式 https://medium.com/@scomper/局域网其他设备共享上网-dd29e18853da#.6w19tdsh9
+### 📶 Surge for iOS 开启共享模式 https://medium.com/@scomper/局域网其他设备共享上网-dd29e18853da#.6w19tdsh9
 
     Surge 在增加了代理共享模式，只需要开启就能让 Wi-Fi 网络中的其他设备通过这台 iPhone 代理访问网络。
     到高级设置中开启 Allow Wi-Fi Access ，或者直接修改配置文件，添加一行参数 allow-wifi-access = true。
@@ -146,9 +138,7 @@ Telegram | https://telegram.me/lhie1x
 
 
 
-
-
-    🏃 Auto / Benchmarik
+### 🏃 Auto / Benchmarik
 
     测试结果仅供参考，无法检测出 VPS 的带宽
 
@@ -159,9 +149,7 @@ Telegram | https://telegram.me/lhie1x
 
 
 
-
-
-     🍎 Apple DNS （Apple 服务加速） http://t.cn/RcgOudi
+### 🍎 Apple DNS （Apple 服务加速） http://t.cn/RcgOudi
 
     Apple DNS 通过收集 Apple 在全中国几乎所有省级行政区的 CDN IP 列表，解决 App Store / Mac App Store / iTunes Store / Apple Music / iBooks / TestFlight 在中国部分地区速度缓慢的问题。
 
