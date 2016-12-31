@@ -27,27 +27,31 @@
 
 # more
 
-🔰 客户端：
+🔰 客户端（有“R”标示表示支持 SSR）：
 
     * iOS
     
         Surge：https://appsto.re/cn/D0Q_9.i
         
-        Shadowrocket：https://appsto.re/cn/UDjM3.i
+        Shadowrocket (R)：https://appsto.re/cn/UDjM3.i
         
-        Wingy：https://appsto.re/cn/19xBeb.i
+        Wingy (R)：https://appsto.re/cn/19xBeb.i
         
-        Potatso：https://appsto.re/cn/OIk1_.i
+        Potatso (R)：https://appsto.re/cn/OIk1_.i
         
     * Android
     
-        ShadowsocksR：https://github.com/shadowsocksr/shadowsocksr-android/releases
+        ShadowsocksR (R)：https://github.com/shadowsocksr/shadowsocksr-android/releases
         
-        Postern：http://www.tunnel-workshop.com
+        Postern (R)：http://www.tunnel-workshop.com
         
     * macOS
     
         ShadowsocksX：https://github.com/shadowsocks/shadowsocks-iOS/releases
+
+        ShadowsocksX-R (R)：https://github.com/yichengchen/ShadowsocksX-R/releases
+
+        ShadowsocksX-NG (R)：https://github.com/qinyuhang/ShadowsocksX-NG/releases
         
         Flora：https://github.com/huacnlee/flora-kit
         
@@ -55,7 +59,7 @@
         
     * Windows
     
-        ShadowsocksR：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
+        ShadowsocksR (R)：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
         
 
 📋 教程：
