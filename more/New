@@ -1,39 +1,40 @@
-12.27 [Surge/Shadowrocket/low]
+# 12.31 [Surge]
+增加 [广告] 屏蔽条目
+增强 [代理] 辨识度
 
+# 12.27 [Surge/Shadowrocket/low]
 增加 [Pixiv] 广告屏蔽   @ quericy 提供
-
 完善工作/排版
-[Surge/Shadowrocket/low] 同步更新
 
-12.17 [Surge/Shadowrocket]
+# 12.17 [Surge/Shadowrocket]
 
 增加 [广告] 屏蔽条目 (百度、爱奇艺、斗鱼、163)
 优化 [Edit] 排版
 
-12.16 [Surge]
+# 12.16 [Surge]
 增加 [广告] 屏蔽条目
 优化 [Widget] 排版
 
-12.14 [Surge]
+# 12.14 [Surge]
 增加 [广告] 屏蔽条目
 增强 [直连] 辨识度
 增强 [代理] 辨识度
 屏蔽 [百度] 定位
 优化 [dns]
 
-12.07 [Surge/Shadowrocket]
+# 12.07 [Surge/Shadowrocket]
 增加 [广告] 屏蔽条目
 修复 [腾讯新闻] 加载缓慢
 修复 [微信公众号] 图片显示空白
 删除 [百度地图] 出现问题的部分规则
 
-12.06 [Surge/Shadowrocket]
+# 12.06 [Surge/Shadowrocket]
 优化 [重复] 屏蔽名单
 优化 [苹果] 线路加速
 删除 [低效率 dns]
 屏蔽 [百度] 定位泄露
 
-12.05 [Surge/Shadowrocket]
+# 12.05 [Surge/Shadowrocket]
 增加 [dump-body-and-save = false]
 增加 [广告] 屏蔽条目
 增加 [代理] 名单
@@ -42,14 +43,12 @@
 屏蔽 [WiFi 管家] 广告、上传功能 (beta)
 增加 [未知] 屏蔽列表 (3条，别人提交给我的，暂时还不知道干什么用)
 
-12.02 [Surge]
+# 12.02 [Surge]
 修复 [Surge Mac TUN] 启用失败的问题
 修复 [爱奇艺] 加载缓慢
 增加 [dns-server：119.29.29.29, 1.2.4.8, 210.2.4.8, 223.5.5.5, 223.6.6.6]
 
-12.01 [Surge]
+# 12.01 [Surge]
 增加 [allow-wifi-access = false]
 增加 [enhanced-mode-by-rule = true]
 增加 [exclude-simple-hostnames = true]
-
-# Surge/Shadowrocket Config
