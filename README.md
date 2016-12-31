@@ -92,7 +92,7 @@ Telegram | https://telegram.me/lhie1x
 
 # 帮助到您？捐赠鼓励！
 
-![](/img/alipay.png "alipay：lhie1@qq.com")     ![](/img/WeChat.png "WeChat：lhie1x")
+![](/img/alipay.png "alipay：lhie1@qq.com")               ![](/img/WeChat.png "WeChat：lhie1x")
 
 # Q&A
 
