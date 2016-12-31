@@ -22,8 +22,16 @@
     Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
     
     Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf
+
+    Surge (更低版本)：https://raw.githubusercontent.com/lhie1/Surge/master/lower.conf
     
     更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
+
+🆙 一键更新 for Surge （Workflow）：
+
+    单节点版：https://workflow.is/workflows/c88d8c97c92d42989af84905a74433cd
+
+    多节点版：https://workflow.is/workflows/b741530ce85b4de8a064a4a4513b18d2
 
 # more
 
@@ -69,11 +77,6 @@
     Surge for Mac：http://t.cn/RIQs6O7
     
     Shadowrocket：http://t.cn/RqKIk3Z
-    
-
-🆙 一键更新：
-
-    Surge：https://workflow.is/workflows/b741530ce85b4de8a064a4a4513b18d2
     
 
 💤 其他：
