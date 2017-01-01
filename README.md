@@ -79,10 +79,6 @@
     Shadowrocket：http://t.cn/RqKIk3Z
     
 
-💤 其他：
-
-    Surge for Mac 破解版：http://t.cn/RIRKX0K
-
 # line
 
 *** | Raw |
