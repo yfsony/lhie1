@@ -23,15 +23,17 @@
     
     更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
 
-~~Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf~~
+    ~~Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf~~
 
-~~Surge (更低版本)：https://raw.githubusercontent.com/lhie1/Surge/master/lower.conf~~
+    ~~Surge (更低版本)：https://raw.githubusercontent.com/lhie1/Surge/master/lower.conf~~
 
 🆙 一键更新 for Surge （Workflow）：
 
-    单节点版：https://workflow.is/workflows/56ea1f97ed254718b2bf7c064bd93e3e
+    单节点版：https://workflow.is/workflows/2ad1ec8cc75d418d80752929acca19c5
 
-    多节点版：https://workflow.is/workflows/81513d9c1a8c43528898ba7ddf3a4bbf
+    多节点版：https://workflow.is/workflows/e112b361dd144761b9509a07b2254a0a
+
+    01.02 02:34 Update：单节点版配置更容易，增加了自定义删除规则
 
 # more
 
