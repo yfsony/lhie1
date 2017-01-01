@@ -21,11 +21,11 @@
     
     Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
     
-    ~~Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf~~
-
-    ~~Surge (更低版本)：https://raw.githubusercontent.com/lhie1/Surge/master/lower.conf~~
-    
     更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
+
+~~Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf~~
+
+~~Surge (更低版本)：https://raw.githubusercontent.com/lhie1/Surge/master/lower.conf~~
 
 🆙 一键更新 for Surge （Workflow）：
 
