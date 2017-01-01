@@ -23,10 +23,6 @@
     
     更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
 
-    ~~Surge (1.2.6)：https://raw.githubusercontent.com/lhie1/Surge/master/low.conf~~
-
-    ~~Surge (更低版本)：https://raw.githubusercontent.com/lhie1/Surge/master/lower.conf~~
-
 🆙 一键更新 for Surge （Workflow）：
 
     单节点版：https://workflow.is/workflows/2ad1ec8cc75d418d80752929acca19c5
