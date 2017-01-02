@@ -60,6 +60,8 @@
         ShadowsocksX-NG (R)：https://github.com/qinyuhang/ShadowsocksX-NG/releases
         
         Flora：https://github.com/huacnlee/flora-kit
+
+        Specht Lite：https://github.com/zhuhaow/SpechtLite/releases
         
         Surge：http://nssurge.com
         
@@ -68,13 +70,15 @@
         ShadowsocksR (R)：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
         
 
-📋 教程：
+📋 教程 / 说明：
 
     Surge for iOS：http://t.cn/RUfiwq0
     
-    Surge for Mac：http://t.cn/RIQs6O7
+    Surge for macOS：http://t.cn/RIQs6O7
     
     Shadowrocket：http://t.cn/RqKIk3Z
+
+    Specht Lite for macOS：http://t.cn/RMvOpm5
     
 
 # line
