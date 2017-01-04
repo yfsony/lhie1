@@ -29,8 +29,6 @@
 
     多节点版：https://workflow.is/workflows/e112b361dd144761b9509a07b2254a0a
 
-    01.02 02:34 Update：单节点版配置更容易，增加了自定义删除规则
-
 # more
 
 🔰 客户端（有“R”标示表示支持 SSR）：
