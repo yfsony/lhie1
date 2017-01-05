@@ -1,10 +1,15 @@
 # 01.05 [Surge]
 调整 [Proxy] 排序
-增加 [Tumblr] 视频加速
+增加 [Tumblr] 视频加速（beta）
 增加 [YouTube] 个别广告的屏蔽
 
 想要更方便快捷了解更新内容？
 Telegram：https://telegram.me/surgenews
+
+已知问题：此次更新会导致 Tumblr 图片无法显示
+请自行删除（最新的 Workflow 已经支持自定义删除规则）：
+DOMAIN,68.media.tumblr.com,DIRECT
+68.media.tumblr.com = 123.207.137.88
 
 # 01.04 [Surge/Shadowrocket]
 修复 [优酷]广告屏蔽
