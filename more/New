@@ -1,3 +1,11 @@
+想要更方便快捷了解更新内容？
+Telegram：https://telegram.me/surgenews
+
+# 01.10 [Surge/Shadowrocket]
+临时更新：
+修复 [Proxy Group] 重复的问题
+更新 [Shadowrocket] 保持同步
+
 # 01.10 [Surge]
 增加 [广告] 屏蔽条目(百度、百度贴吧、美图、喜马拉雅、12306、豆瓣、SpeedTest、今日头条、汽车之家 等)
 完善 [YouTube] 广告屏蔽
@@ -12,16 +20,10 @@
 去掉 [Tumblr] 视频加速（beta）
 完善 [YouTube] 广告屏蔽
 
-想要更方便快捷了解更新内容？
-Telegram：https://telegram.me/surgenews
-
 # 01.05 [Surge]
 调整 [Proxy] 排序
 增加 [Tumblr] 视频加速（beta）
 增加 [YouTube] 个别广告的屏蔽
-
-想要更方便快捷了解更新内容？
-Telegram：https://telegram.me/surgenews
 
 已知问题：此次更新会导致 Tumblr 图片无法显示
 请自行删除（最新的 Workflow 已经支持自定义删除规则）：
