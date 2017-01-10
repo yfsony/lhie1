@@ -147,7 +147,6 @@ Telegram | https://telegram.me/lhie1x
     请不要使用 google.com 作为测试目标，有可能导致 proxy 服务器 ip 被加入黑名单，导致各种操作需要输入验证码。
     目标 URL 对所有的 policy 是基本公平的，所以请选择像 gstatic.com 这样的在全球都有节点的 URL 作为测试目标。
     作者建议：http://www.gstatic.com/generate_204
-    个人建议：http://www.apple.com
 
 
 
