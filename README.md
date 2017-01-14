@@ -27,7 +27,7 @@
 
     单节点版：https://workflow.is/workflows/2ad1ec8cc75d418d80752929acca19c5
 
-    多节点版：https://workflow.is/workflows/d376decf16524cca9e4562985d8b340b
+    多节点版：https://workflow.is/workflows/7d14ac3d8e2348279064587379361be1
 
 # more
 

@@ -1,6 +1,11 @@
 想要更方便快捷了解更新内容？
 Telegram：https://telegram.me/surgenews
 
+# 01.14 [Surge/Shadowrocket]
+增加 [广告] 屏蔽条目
+完善 [LINE] 代理条目   via.Hackl0us
+增加 [KaKaoTalk] 代理条目   via.Hackl0us
+
 # 01.10 [Surge/Shadowrocket]
 临时更新：
 修复 [Proxy Group] 重复的问题
@@ -38,7 +43,7 @@ DOMAIN,68.media.tumblr.com,DIRECT
 增强 [代理] 辨识度
 
 # 12.27 [Surge/Shadowrocket/low]
-增加 [Pixiv] 广告屏蔽   @ quericy 提供
+增加 [Pixiv] 广告屏蔽   via.quericy
 完善工作/排版
 
 # 12.17 [Surge/Shadowrocket]
