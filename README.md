@@ -106,7 +106,7 @@ Telegram | https://telegram.me/lhie1x
 
     🏃 Auto ： 对规则内的 所有 服务器进行“测速”，并根据最优结果自动选择节点。
 
-    🍎 Auto ： 对规则内的 美国 服务器进行“测速”，并根据最优结果自动选择节点。（针对 [🍎 Proxy] 所设计的分组）
+    🍎 Auto ： 对规则内的 所有 服务器进行“测速”，并根据最优结果自动选择节点。（针对 [🍎 Proxy] 所设计的分组）
 
 
     建议 ： ☁️ Proxy - 代理服务器 、 💊 Proxy - 🌍 Direct 、 🍎 Proxy - 🌍 Direct / 🍎 Auto
