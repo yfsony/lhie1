@@ -94,22 +94,22 @@ Telegram | https://telegram.me/lhie1x
 
 # Q&A
 
-### ☁️ Proxy & 💊 Proxy & 🍎 Proxy / # Auto Test Group
+### Proxy & China & Apple / # Auto Test Group
 
-    ☁️ Proxy ： 直连 / 代理服务器(选择 [🌍 Direct] 为 直连，选择 [其他] 则通过 代理服务器 访问)
+    Proxy ： 直连 / 代理服务器(选择 [Direct] 为 直连，选择 [其他] 则通过 代理服务器 访问)
 
-    💊 Proxy ： 自动代理 / 全局代理(选择 [🌍 Direct] 为 自动代理 ，选择 [☁️ Proxy] 即为 全局代理 )
+    China ： 自动代理 / 全局代理(选择 [Direct] 为 智能分流 (Pac) ，选择 [Proxy] 即为 全局代理 )
 
-    🍎 Proxy ： 如果连接苹果服务器困难， 🍎 Proxy 选 代理服务器 ，可能会改善一些问题。
+    Apple ： 如果连接苹果服务器困难， Apple Proxy 选 代理服务器 ，可能会改善一些问题。
 
-    如果 ： [☁️ Proxy] 、 [💊 Proxy] 都选择 代理服务器 ，则为全局代理（不包括 [🍎 Proxy]）。
+    如果 ： [Proxy] 、 [China] 都选择 代理服务器 ，则为全局代理（不包括 [Apple Proxy]）。
 
-    🏃 Auto ： 对规则内的 所有 服务器进行“测速”，并根据最优结果自动选择节点。
+    Proxy Auto ： 对规则内的所有服务器进行“测速”，并根据最优结果自动选择节点。
 
-    🍎 Auto ： 对规则内的 所有 服务器进行“测速”，并根据最优结果自动选择节点。（针对 [🍎 Proxy] 所设计的分组）
+    Apple Auto ： 对规则内的所有服务器进行“测速”，并根据最优结果自动选择节点。（针对 [Apple Proxy] 所设计的分组）
 
 
-    建议 ： ☁️ Proxy - 代理服务器 、 💊 Proxy - 🌍 Direct 、 🍎 Proxy - 🌍 Direct / 🍎 Auto
+    建议 ：Proxy - 代理服务器 、 China - 🌍 Direct 、 Apple - Direct /  Apple Auto
 
 
 
