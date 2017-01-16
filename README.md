@@ -25,9 +25,9 @@
 
 🆙 一键更新 for Surge （Workflow）：
 
-    单节点版：https://workflow.is/workflows/2ad1ec8cc75d418d80752929acca19c5
+    单节点版：https://workflow.is/workflows/b42d7d3c6bcd443d951889d0deb4a803
 
-    多节点版：https://workflow.is/workflows/7d14ac3d8e2348279064587379361be1
+    多节点版：https://workflow.is/workflows/b42d7d3c6bcd443d951889d0deb4a803
 
 # more
 
