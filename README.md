@@ -100,7 +100,7 @@ Telegram | https://telegram.me/lhie1x
 
     🔰 Proxy ： 自动代理 / 全局代理(选择 [🌍 Direct] 为 智能分流 (Pac) ，选择 [☁️ Proxy] 即为 全局代理 )
 
-    🍎 Proxy ： 如果连接苹果服务器困难， [🍎 Proxy] 选 代理服务器 ，可能会改善一些问题。
+    🍎 Proxy ： 如果连接苹果服务器困难， [🍎 Proxy] 选 [🍎 Auto] ，可能会改善一些问题。
 
     如果 ： [☁️ Proxy] 、 [🔰 Proxy] 都选择 代理服务器 ，则为全局代理（不包括 [🍎 Proxy]）。
 
@@ -109,7 +109,7 @@ Telegram | https://telegram.me/lhie1x
     🍎 Auto ： 对规则内的所有服务器进行“测速”，并根据最优结果自动选择节点。（针对 [🍎 Proxy] 所设计的分组）
 
 
-    建议 ：☁️ Proxy - 代理服务器 、 🔰 Proxy - 🌍 Direct 、 🍎 Proxy - 🌍 Direct /  🍎 Auto
+    建议 ： ☁️ Proxy - 代理服务器 、🔰 Proxy - 🌍 Direct 、🍎 Proxy - 🌍 Direct / 🍎 Auto
 
 
 
