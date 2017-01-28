@@ -22,8 +22,10 @@
     Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
     
     更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
+    
+    Telegram：https://telegram.me/surgenews
 
-🆙 一键更新 for Surge （Workflow）：
+🆙 一键生成 / 更新 for Surge （Workflow）：
 
     单节点版：https://workflow.is/workflows/83007c0c0e62458daaee3564d6bffab2
 
@@ -70,13 +72,17 @@
 
 📋 教程 / 说明：
 
-    Surge for iOS：http://t.cn/RUfiwq0
+        Surge for iOS：https://medium.com/@scomper/surge-配置文件-a1533c10e80b#.9fpdjn34f
     
-    Surge for macOS：http://t.cn/RIQs6O7
+        Surge for macOS：https://medium.com/@scomper/surge-for-mac-简明指南-f6f357b8f09c#.n55zdnvnd
     
-    Shadowrocket：http://t.cn/RqKIk3Z
-
-    Specht Lite for macOS：http://t.cn/RMvOpm5
+        Shadowrocket for iOS：http://matrix.sspai.com/p/c113cba0
+    
+        SSR for Windows：https://ocvpn.wordpress.com/2016/10/15/shadowsocksr-for-windows设置教程
+    
+        SSR for Android：https://yhyy135.github.io/how-to-use-ssr-android/
+    
+        Specht Lite for macOS：https://github.com/zhuhaow/SpechtLite/wiki/如何配置Specht-Lite
     
 
 # line
