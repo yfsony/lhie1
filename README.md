@@ -30,6 +30,12 @@
     单节点版：https://workflow.is/workflows/83007c0c0e62458daaee3564d6bffab2
 
     多节点版：https://workflow.is/workflows/8168a2630bb6478f899c1dc1315155e7
+    
+🆙 自动更新：
+    
+    示范：https://async.be/Rule/Advanced/Surge.php?List=https://raw.githubusercontent.com/lhie1/CloudGate-List/master/Rule/&AutoGroup=false&Rule=false&Apple=false&IPV6=false&Group=1&SERVER1=ServerName,custom,127.0.0.1,80,rc4-md5,Password&DNS=true,4,119.29.29.29,114.114.114.114,223.5.5.5,223.6.6.6
+    
+    OTA 参数详解：https://manual.async.be/Advanced.html
 
 # more
 
