@@ -1,6 +1,11 @@
 想要更方便快捷了解更新内容？
 Telegram：https://telegram.me/surgenews
 
+# 02.07 [Surge/Shadowrocket]
+增加第三方 [广告库] (test)
+增加 [USER-AGENT] 规则示例 (tf)
+其他细节优化
+
 # 02.06 [Surge/Shadowrocket]
 增加 [Surge] TF 版的新特性规则示例
 修复 [Shadowrocket] 语法识别问题
