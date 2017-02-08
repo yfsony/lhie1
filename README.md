@@ -20,10 +20,15 @@
     Surge：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
     
     Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
+
+    Hosts：https://async.be/Rule/Basic/Hosts.php
+    （免服务器 / 自动更新 ／ 支持 google、instagram、twitter 等主流外网）
+
+    Telegram：https://telegram.me/surgenews
+    （新内容发布 ／ 更方便快捷获取更新内容）
     
     更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
     
-    Telegram：https://telegram.me/surgenews
 
 🆙 一键生成 / 更新 for Surge （Workflow）：
 
@@ -33,9 +38,13 @@
     
 🆙 自动更新：
     
-    示范：https://async.be/Rule/Advanced/Surge.php?List=https://raw.githubusercontent.com/lhie1/CloudGate-List/master/Rule/&AutoGroup=false&Rule=false&Apple=false&IPV6=false&Group=1&SERVER1=ServerName,custom,127.0.0.1,80,rc4-md5,Password&DNS=true,4,119.29.29.29,114.114.114.114,223.5.5.5,223.6.6.6
+    自动更新（示范）
+
+    单节点：https://async.be/Rule/Advanced/Surge.php?List=https://raw.githubusercontent.com/lhie1/CloudGate-List/master/Rule/&AutoGroup=false&Rule=false&Apple=false&IPV6=false&Group=1&SERVER1=ServerName,custom,127.0.0.1,80,rc4-md5,Password&DNS=true,4,119.29.29.29,114.114.114.114,223.5.5.5,223.6.6.6
+
+    多节点：https://async.be/Rule/Advanced/Surge.php?List=https://raw.githubusercontent.com/lhie1/CloudGate-List/master/Rule/&AutoGroup=false&Rule=false&Apple=false&IPV6=false&Group=2&SERVER1=ServerName,custom,127.0.0.1,80,rc4-md5,Password&SERVER2=ServerName,custom,127.0.0.1,80,rc4-md5,Password&DNS=true,4,119.29.29.29,114.114.114.114,223.5.5.5,223.6.6.6
     
-    OTA 参数详解：https://manual.async.be/Advanced.html
+    参数详解：https://manual.async.be/AdvancedRule.html
 
 # more
 
