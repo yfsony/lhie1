@@ -30,7 +30,7 @@
     更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
     
 
-🆙 一键生成 / 更新 for Surge （Workflow）：
+🆙 一键生成 / 更新（Workflow）：
 
     单节点版：https://workflow.is/workflows/83007c0c0e62458daaee3564d6bffab2
 
