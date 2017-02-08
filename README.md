@@ -100,10 +100,6 @@ LHIE1| [翻墙服务](https://item.taobao.com/item.htm?spm=686.1000925.0.0.nxFmS
 Telegram | https://telegram.me/lhie1x
 
 
-# 帮助到您？捐赠鼓励！
-
-![](/img/alipay.png "alipay：lhie1@qq.com")     ![](/img/WeChat.png "WeChat：lhie1x")
-
 # Q&A
 
 ### ☁️ Proxy & 🔰 Proxy & 🍎 Proxy / # Auto Test Group
