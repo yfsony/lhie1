@@ -15,7 +15,7 @@
 * Apple 服务加速（App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes 等）
 * 国外常用网站加速（Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github 等）
 
-♻️ Download：
+♻️ Download
 
     Surge：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
     
@@ -30,21 +30,21 @@
     更新日志：https://raw.githubusercontent.com/lhie1/Surge/master/more/New
     
 
-🆙 一键生成 / 更新（Workflow）：
+🆙 一键生成 / 更新（Workflow）
 
-    单节点版：https://workflow.is/workflows/83007c0c0e62458daaee3564d6bffab2
+    单节点：https://workflow.is/workflows/83007c0c0e62458daaee3564d6bffab2
 
-    多节点版：https://workflow.is/workflows/8168a2630bb6478f899c1dc1315155e7
-    
-🆙 自动更新：
-    
-    自动更新（示范）
+    多节点：https://workflow.is/workflows/8168a2630bb6478f899c1dc1315155e7
+
+
+🆙 自动更新（示范）
 
     单节点：https://async.be/Rule/Advanced/Surge.php?List=https://raw.githubusercontent.com/lhie1/CloudGate-List/master/Rule/&AutoGroup=false&Rule=false&Apple=false&IPV6=false&Group=1&SERVER1=ServerName,custom,127.0.0.1,80,rc4-md5,Password&DNS=false&AGENT=false
 
     多节点：https://async.be/Rule/Advanced/Surge.php?List=https://raw.githubusercontent.com/lhie1/CloudGate-List/master/Rule/&AutoGroup=false&Rule=false&Apple=false&IPV6=false&Group=2&SERVER1=ServerName,custom,127.0.0.1,80,rc4-md5,Password&SERVER2=ServerName,custom,127.0.0.1,80,rc4-md5,Password&DNS=false&AGENT=false
     
     参数详解：https://manual.async.be/AdvancedRule.html
+
 
 # more
 
