@@ -47,6 +47,6 @@ USER-AGENT,CloudKit*,🍎 Proxy
 
 USER-AGENT,com.apple.Maps,🍎 Proxy
 
-USER-AGENT,com.google.chrome.ios,⭐️ Proxy
+// USER-AGENT,com.google.chrome.ios,⭐️ Proxy
 
 USER-AGENT,Advert*,REJECT
