@@ -19,5 +19,6 @@ USER-AGENT,网易云音乐*,🔰 Proxy
 USER-AGENT,AppStore*,🍎 ProxyUSER-AGENT,CloudKit*,🍎 ProxyUSER-AGENT,FindMyiPhone*,🍎 ProxyUSER-AGENT,MobileAsset*,🍎 ProxyUSER-AGENT,Music*,🍎 ProxyUSER-AGENT,com.apple.Maps,🍎 Proxy
 
 // USER-AGENT,com.apple.Safari*,⭐️ Proxy
+// USER-AGENT,MobileSafari*,⭐️ Proxy
 
 USER-AGENT,Advert*,REJECT
