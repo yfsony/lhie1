@@ -5,11 +5,12 @@ PROCESS-NAME,Surge,☁️ ProxyPROCESS-NAME,Telegram,☁️ ProxyPROCESS-NAME,
 PROCESS-NAME,AVOS,🔰 ProxyPROCESS-NAME,MicroMessenger,🔰 ProxyPROCESS-NAME,QQ,🔰 ProxyPROCESS-NAME,Spark,🔰 ProxyPROCESS-NAME,WeChat,🔰 Proxy// iOS
 USER-AGENT,Dropbox*,☁️ Proxy,force-remote-dnsUSER-AGENT,Facebook*,☁️ Proxy,force-remote-dnsUSER-AGENT,Google*,☁️ Proxy,force-remote-dnsUSER-AGENT,Instagram*,☁️ Proxy,force-remote-dnsUSER-AGENT,iTranslate*,☁️ ProxyUSER-AGENT,Spotify*,☁️ Proxy,force-remote-dnsUSER-AGENT,Telegram*,☁️ Proxy,force-remote-dnsUSER-AGENT,TMTumblrSDK*,☁️ Proxy,force-remote-dnsUSER-AGENT,Tumblr*,☁️ Proxy,force-remote-dnsUSER-AGENT,Tweetbot*,☁️ Proxy,force-remote-dnsUSER-AGENT,Twitter*,☁️ Proxy,force-remote-dnsUSER-AGENT,YouTube*,☁️ Proxy,force-remote-dns
 
-USER-AGENT,AVOS*,🔰 ProxyUSER-AGENT,hide*,🔰 Proxy
+USER-AGENT,DYZB*,🔰 ProxyUSER-AGENT,hide*,🔰 Proxy
 USER-AGENT,iQiYiPhoneVideo*,🔰 ProxyUSER-AGENT,MicroMessenger*,🔰 ProxyUSER-AGENT,QQ*,🔰 ProxyUSER-AGENT,Spark*,🔰 ProxyUSER-AGENT,WeChat*,🔰 Proxy
 USER-AGENT,Weibo*,🔰 Proxy
 USER-AGENT,Youku*,🔰 Proxy
-USER-AGENT,爱听4G*,🔰 ProxyUSER-AGENT,AppStore*,🍎 ProxyUSER-AGENT,CloudKit*,🍎 ProxyUSER-AGENT,FindMyiPhone*,🍎 ProxyUSER-AGENT,MobileAsset*,🍎 ProxyUSER-AGENT,Music*,🍎 ProxyUSER-AGENT,com.apple.Maps,🍎 Proxy
+USER-AGENT,爱听4G*,🔰 Proxy
+USER-AGENT,网易云音乐*,🔰 ProxyUSER-AGENT,AppStore*,🍎 ProxyUSER-AGENT,CloudKit*,🍎 ProxyUSER-AGENT,FindMyiPhone*,🍎 ProxyUSER-AGENT,MobileAsset*,🍎 ProxyUSER-AGENT,Music*,🍎 ProxyUSER-AGENT,com.apple.Maps,🍎 Proxy
 
 // USER-AGENT,com.apple.Safari*,⭐️ Proxy
 
