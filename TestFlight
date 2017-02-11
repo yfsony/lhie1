@@ -23,7 +23,6 @@ USER-AGENT,Google*,☁️ Proxy,force-remote-dns
 USER-AGENT,Facebook*,☁️ Proxy,force-remote-dns
 USER-AGENT,Instagram*,☁️ Proxy,force-remote-dns
 USER-AGENT,iTranslate*,☁️ Proxy
-USER-AGENT,Jeff*,☁️ Proxy
 USER-AGENT,Spotify*,☁️ Proxy,force-remote-dns
 USER-AGENT,YouTube*,☁️ Proxy,force-remote-dns
 USER-AGENT,Telegram*,☁️ Proxy,force-remote-dns
