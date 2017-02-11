@@ -111,7 +111,7 @@ Telegram | https://telegram.me/lhie1x
 
 # Q&A
 
-### ☁️ Proxy & 🔰 Proxy & 🍎 Proxy / # Auto Test Group
+### ☁️ Proxy & 🔰 Proxy & 🍎 Proxy
 
     ☁️ Proxy ： 直连 / 代理服务器(选择 [🌍 Direct] 为 直连，选择 [其他] 则通过 代理服务器 访问)
 
@@ -121,12 +121,11 @@ Telegram | https://telegram.me/lhie1x
 
     如果 ： [☁️ Proxy] 、 [🔰 Proxy] 都选择 代理服务器 ，则为全局代理（不包括 [🍎 Proxy]）。
 
-    🏃 Auto ： 对规则内的所有服务器进行“测速”，并根据最优结果自动选择节点。
+    ⭐️ Web：使 Safari 成为纯代理浏览器的开关（提高隐私安全、突破内网限制）。
 
-    🍎 Auto ： 对规则内的所有服务器进行“测速”，并根据最优结果自动选择节点。（针对 [🍎 Proxy] 所设计的分组）
+    如果 ： [⭐️ Web] 选择 [☁️ Proxy] ，Safari 访问的所有内容都通过代理服务器收发。
 
-
-    建议 ： ☁️ Proxy - 代理服务器 、🔰 Proxy - 🌍 Direct 、🍎 Proxy - 🌍 Direct / 🍎 Auto
+    建议 ： ☁️ Proxy - 代理服务器 、🔰 Proxy - 🌍 Direct 、🍎 Proxy - 🌍 Direct / 🍎 Auto、⭐️ Web - 🌍 Direct
 
 
 
