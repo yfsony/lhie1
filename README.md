@@ -121,11 +121,7 @@ Telegram | https://telegram.me/lhie1x
 
     如果 ： [☁️ Proxy] 、 [🔰 Proxy] 都选择 代理服务器 ，则为全局代理（不包括 [🍎 Proxy]）。
 
-    ⭐️ Web：使 Safari 成为纯代理浏览器的开关（提高隐私安全、突破内网限制）。
-
-    如果 ： [⭐️ Web] 选择 [☁️ Proxy] ，Safari 访问的所有内容都通过代理服务器收发。
-
-    建议 ： ☁️ Proxy - 代理服务器 、🔰 Proxy - 🌍 Direct 、🍎 Proxy - 🌍 Direct / 🍎 Auto、⭐️ Web - 🌍 Direct
+    建议 ： ☁️ Proxy - 代理服务器 、🔰 Proxy - 🌍 Direct 、🍎 Proxy - 🌍 Direct / 🍎 Auto
 
 
 
