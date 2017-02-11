@@ -6,6 +6,7 @@ USER-AGENT,Dropbox*,☁️ Proxy,force-remote-dnsUSER-AGENT,Facebook*,☁️ Pr
 
 USER-AGENT,AVOS*,🔰 ProxyUSER-AGENT,hide*,🔰 ProxyUSER-AGENT,MicroMessenger*,🔰 ProxyUSER-AGENT,QQ*,🔰 ProxyUSER-AGENT,Spark*,🔰 ProxyUSER-AGENT,WeChat*,🔰 Proxy
 USER-AGENT,Weibo*,🔰 Proxy
+USER-AGENT,Youku*,🔰 Proxy
 USER-AGENT,爱听4G*,🔰 ProxyUSER-AGENT,AppStore*,🍎 ProxyUSER-AGENT,CloudKit*,🍎 ProxyUSER-AGENT,FindMyiPhone*,🍎 ProxyUSER-AGENT,MobileAsset*,🍎 ProxyUSER-AGENT,Music*,🍎 ProxyUSER-AGENT,com.apple.Maps,🍎 Proxy
 
 // USER-AGENT,com.google.chrome.ios,⭐️ Proxy
