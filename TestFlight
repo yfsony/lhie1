@@ -18,7 +18,9 @@ USER-AGENT,Youku*,🔰 Proxy
 USER-AGENT,爱听4G*,🔰 Proxy
 USER-AGENT,网易云音乐*,🔰 Proxy
 
+USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*,🔰 Proxy,force-remote-dns
 USER-AGENT,%E6%94%AF%E4%BB%98%E5%AE%9D*,🔰 Proxy,force-remote-dns
+USER-AGENT,%E6%89%8B%E6%9C%BA%E4%BA%AC%E4%B8%9C*,🔰 Proxy,force-remote-dns
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8D*,🔰 Proxy,force-remote-dns
 USER-AGENT,AppStore*,🍎 Proxy
 USER-AGENT,cloudd*,🍎 ProxyUSER-AGENT,CloudKit*,🍎 ProxyUSER-AGENT,FindMyiPhone*,🍎 Proxy
