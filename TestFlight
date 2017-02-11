@@ -1,8 +1,9 @@
 // macOS
-PROCESS-NAME,Dropbox,☁️ ProxyPROCESS-NAME,Facebook,☁️ ProxyPROCESS-NAME,Google,☁️ ProxyPROCESS-NAME,Instagram,☁️ ProxyPROCESS-NAME,iTranslate,☁️ ProxyPROCESS-NAME,Jeff,☁️ ProxyPROCESS-NAME,Spotify,☁️ Proxy
-PROCESS-NAME,Surge,☁️ ProxyPROCESS-NAME,Telegram,☁️ ProxyPROCESS-NAME,Tweetbot,☁️ ProxyPROCESS-NAME,Twitter,☁️ ProxyPROCESS-NAME,YouTube,☁️ Proxy
+PROCESS-NAME,Dropbox,☁️ ProxyPROCESS-NAME,Facebook,☁️ ProxyPROCESS-NAME,GitHub Desktop,☁️ ProxyPROCESS-NAME,Google,☁️ ProxyPROCESS-NAME,Instagram,☁️ ProxyPROCESS-NAME,iTranslate,☁️ ProxyPROCESS-NAME,Jeff,☁️ ProxyPROCESS-NAME,Spotify,☁️ ProxyPROCESS-NAME,Surge,☁️ ProxyPROCESS-NAME,Telegram,☁️ ProxyPROCESS-NAME,Tweetbot,☁️ ProxyPROCESS-NAME,Twitter,☁️ ProxyPROCESS-NAME,YouTube,☁️ Proxy
 
-PROCESS-NAME,AVOS,🔰 ProxyPROCESS-NAME,MicroMessenger,🔰 ProxyPROCESS-NAME,QQ,🔰 ProxyPROCESS-NAME,Spark,🔰 ProxyPROCESS-NAME,WeChat,🔰 Proxy// iOS
+PROCESS-NAME,AVOS,🔰 ProxyPROCESS-NAME,MicroMessenger,🔰 ProxyPROCESS-NAME,QQ,🔰 ProxyPROCESS-NAME,Spark,🔰 ProxyPROCESS-NAME,WeChat,🔰 Proxy
+
+// PROCESS-NAME,Safari,⭐️ Proxy// iOS
 USER-AGENT,Dropbox*,☁️ Proxy,force-remote-dnsUSER-AGENT,Facebook*,☁️ Proxy,force-remote-dnsUSER-AGENT,Google*,☁️ Proxy,force-remote-dnsUSER-AGENT,Instagram*,☁️ Proxy,force-remote-dnsUSER-AGENT,iTranslate*,☁️ Proxy
 USER-AGENT,Speedtest*,☁️ Proxy,force-remote-dnsUSER-AGENT,Spotify*,☁️ Proxy,force-remote-dnsUSER-AGENT,Telegram*,☁️ Proxy,force-remote-dnsUSER-AGENT,TMTumblrSDK*,☁️ Proxy,force-remote-dnsUSER-AGENT,Tumblr*,☁️ Proxy,force-remote-dnsUSER-AGENT,Tweetbot*,☁️ Proxy,force-remote-dnsUSER-AGENT,Twitter*,☁️ Proxy,force-remote-dnsUSER-AGENT,YouTube*,☁️ Proxy,force-remote-dns
 
@@ -20,8 +21,7 @@ USER-AGENT,网易云音乐*,🔰 Proxy
 USER-AGENT,AppStore*,🍎 Proxy
 USER-AGENT,cloudd*,🍎 ProxyUSER-AGENT,CloudKit*,🍎 ProxyUSER-AGENT,FindMyiPhone*,🍎 Proxy
 USER-AGENT,itunesstored*,🍎 ProxyUSER-AGENT,MobileAsset*,🍎 ProxyUSER-AGENT,Music*,🍎 Proxy
-USER-AGENT,Oasis*,🍎 ProxyUSER-AGENT,com.apple.Maps,🍎 Proxy
-
+USER-AGENT,Oasis*,🍎 Proxy
 // USER-AGENT,com.apple.Safari*,⭐️ Proxy
 // USER-AGENT,MobileSafari*,⭐️ Proxy
 
