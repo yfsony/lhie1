@@ -1,6 +1,11 @@
 想要更方便快捷了解更新内容？
 Telegram：https://telegram.me/surgenews
 
+# 02.13 [Surge/Shadowrocket/PHP]
+增加 [今日头条] 开屏广告屏蔽
+增加 [IT之家] 移动端网页广告屏蔽
+删除 [重复/冲突] 规则
+
 # 02.12 [Surge/Shadowrocket]
 改善大部分问题
 加速 [Apple] 服务
@@ -82,7 +87,7 @@ DOMAIN,68.media.tumblr.com,DIRECT
 68.media.tumblr.com = 123.207.137.88
 
 # 01.04 [Surge/Shadowrocket]
-修复 [优酷]广告屏蔽
+修复 [优酷] 广告屏蔽
 
 # 12.31 [Surge]
 增加 [广告] 屏蔽条目
