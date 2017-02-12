@@ -35,10 +35,7 @@ USER-AGENT,WeChat*,🔰 Proxy
 USER-AGENT,AppStore*,🍎 Proxy
 USER-AGENT,cloudd*,🍎 Proxy
 USER-AGENT,CloudKit*,🍎 Proxy
-USER-AGENT,FindMyiPhone*,🍎 Proxy
+USER-AGENT,itunescloudd*,🍎 Proxy
 USER-AGENT,itunesstored*,🍎 Proxy
-USER-AGENT,MobileAsset*,🍎 Proxy
-USER-AGENT,Music*,🍎 Proxy
-USER-AGENT,Oasis*,🍎 Proxy
 
 USER-AGENT,Advert*,REJECT
