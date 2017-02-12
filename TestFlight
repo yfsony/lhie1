@@ -34,6 +34,7 @@ USER-AGENT,Twitter*,☁️ Proxy,force-remote-dns
 USER-AGENT,YouTube*,☁️ Proxy,force-remote-dns
 
 USER-AGENT,balls*,🔰 Proxy
+USER-AGENT,cn.118100.imusic4G*,🔰 Proxy
 USER-AGENT,DYZB*,🔰 Proxy
 USER-AGENT,hide*,🔰 Proxy
 USER-AGENT,jdjr*,🔰 Proxy
@@ -46,8 +47,6 @@ USER-AGENT,QQ*,🔰 Proxy
 USER-AGENT,qqlive4iphone*,🔰 Proxy
 USER-AGENT,Spark*,🔰 Proxy
 USER-AGENT,WeChat*,🔰 Proxy
-USER-AGENT,爱听4G*,🔰 Proxy
-USER-AGENT,多看阅读*,🔰 Proxy
 
 USER-AGENT,AppStore*,🍎 Proxy
 USER-AGENT,cloudd*,🍎 Proxy
