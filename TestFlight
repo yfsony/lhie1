@@ -33,9 +33,11 @@ USER-AGENT,Tweetbot*,☁️ Proxy,force-remote-dns
 USER-AGENT,Twitter*,☁️ Proxy,force-remote-dns
 USER-AGENT,YouTube*,☁️ Proxy,force-remote-dns
 
+USER-AGENT,balls*,🔰 Proxy
 USER-AGENT,DYZB*,🔰 Proxy
 USER-AGENT,hide*,🔰 Proxy
 USER-AGENT,jdjr*,🔰 Proxy
+USER-AGENT,MegaWerewolf*,🔰 Proxy
 USER-AGENT,MicroMessenger*,🔰 Proxy
 USER-AGENT,Moke*,🔰 Proxy
 USER-AGENT,NewsApp*,🔰 Proxy
