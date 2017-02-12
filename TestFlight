@@ -16,6 +16,7 @@ PROCESS-NAME,Spark,🔰 Proxy
 PROCESS-NAME,WeChat,🔰 Proxy
 
 // User-agent
+USER-AGENT,CodeHub*,☁️ Proxy
 USER-AGENT,Dropbox*,☁️ Proxy,force-remote-dns
 USER-AGENT,Facebook*,☁️ Proxy,force-remote-dns
 USER-AGENT,GitHubMac*,☁️ Proxy
